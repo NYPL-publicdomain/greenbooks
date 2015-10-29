@@ -1,0 +1,54 @@
+ 
+
+KEEP THIS GUIDE WITH YOU
+
+BAD DRIVING WASTES FUEL
+
+cape
+
+With the high tax on gasoline in the different states, it behoves
+all motorists to‘get the most out of his car. This is particularly true
+of the newest cars because of their great capacity for performance.
+Many driving customs should be revised when driving for milage with
+the modern car. With the automatic choke, if the car is backed out of the
+driveway, it shouldn’t be left running; but switched off. If this pre—
+caution is not observed the engine will load up and cause the wasting
+
+of a lot of gas.
+
+More and more drivers shoot their machines up to 20 miles per
+hour in low and more than 30 in second. Also this spurt in low gears
+serves no good purpose at all. As soon as the car is rolling along easily
+in low it should be shifted to second. This same rule should be appleed
+
+when shifting from second to high.
+
+The good care that you give your car regularly also plays an
+important part. New spark plugs, keeping the ignition timing up to its
+highest point of efficiency will cause improvement. The proper lubrica—
+tion is important and the right oil in the crank case. The oil ﬁlter is
+important so that the engine doesn’t suffer from increased wear. T‘ires
+
+should be well inﬂated and seeing that the brakes don’t drag.
+
+Clutch slippages also wastes fuel. The braking of a car causes
+the lost of fuel as the brakes shouldn’t be applied suddenly when ap—
+proaching a traffic light or halting for an emergency. One should always
+
+be on the watch for same as it requires added fuel to build up momentum.
+
+5 All.
+ T01;
+
+C01.
+H07”
+
+FL;
+
+‘ GEl
+
+To:
+
+. SP;
+: Tor
+
