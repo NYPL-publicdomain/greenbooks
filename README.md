@@ -1,3 +1,8 @@
+<img src="http://images.nypl.org/index.php?id=5206347&t=r" alt="Green Book cover, 1940" />
+<img src="http://images.nypl.org/index.php?id=5207997&t=r" alt="Green Book cover, 1948" />
+<img src="http://images.nypl.org/index.php?id=5207618&t=r" alt="Green Book cover, 1947" />
+
+
 ## Data extracted from the Green Books
 View the [original Green Book collection](http://digitalcollections.nypl.org/collections/the-green-book#/?tab=about&amp;scroll=0) (See below for more context)
 
