@@ -8,13 +8,18 @@ View the [original Green Book collection](http://digitalcollections.nypl.org/col
 
 21 volumes, 1937 - 1964
 
-All .txt file names correspond to the imageID of the original captures -- i.e.:
+There are two derivatives for each page -- a .txt file with the raw OCR data, and an .hocr file with coordinate box data for the OCR data. 
+
+All file names correspond to the imageID of the original captures -- i.e.:
 
 `{$captureID}g.txt` is the OCRed output of `{$captureID}g.jpg`
+`{$captureID}g.hocr` is the coordinate OCR output of `{$captureID}g.jpg`
 
 e.g.:
 `5207705g.txt` is the OCRed output of `5207705g.jpg`
+`5207705g.hocr` is the coordinate OCR output of `5207705g.jpg`
 
+## Images
 Primary source images can be sourced this way:
 
 - http://images.nypl.org/index.php?id={$imageID}&t=w (760px)
