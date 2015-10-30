@@ -18,6 +18,7 @@ All file names correspond to the imageID of the original captures -- i.e.:
 
 e.g.:
 `5207705g.txt` is the OCRed output of `5207705g.jpg`
+
 `5207705g.hocr` is the coordinate OCR output of `5207705g.jpg`
 
 ## Images
