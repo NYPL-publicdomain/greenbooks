@@ -20,12 +20,12 @@ LIQUOR STORES
 Hank’s—531 S. Campbell St.
 
 SERVICE STATIONS
-Kirkland—Campbell 8: Orange Ave.
+Kirkland—Campbell 81 Orange Ave.
 
 DELRAY BEACH
 
 TAVERNS
-Manﬁeld—N. W. lat St.
+Manﬁeld—N. W. lst St.
 
 FORT LAUDERDALE
 
@@ -35,22 +35,22 @@ Hill—430 N. W. 7th Ave.
 JACKSONVILLE
 
 HOTELS
-Blue Chip—514 Broad St.
+Blue Chip— 514 Broad St.
 Richmond—422 Broad St.
 
 TOURIST HOMES
-Craddock—4Sth 8: Moncrief
-Alpine Cottage—714 W. Ashley St.
-E. H. Flipper—739 W. Church St.
-L. D. Jeﬁerson—l834 Moncrief Rd.
+Craddock—4Sth & Moncrief
+Alpine Cottag e—7l4 W. Ashley St.
+E. p.H Flip per—739 W. Church St.
+L. D. Jeﬁerson—1834 Moncrief Rd.
 B. Robinson—128 Orange St.
 C. H. Simmons—434 W. Ashley St.
 
 NIGHT CLUBS
-Two Spot—45th 8r Moncrlef Rd.
+Two Spot—45th & Moncrief Rd.
 
-Manuel's—624629 W. Ashley St.
-My Club—1015' N. "D" St.
+Manuel' 3—624 629 W. Ashley St.
+My Club—1015' N. “D" St.
 
 BARBER SHOPS
 Blue Chip—516 Broad St.
@@ -58,25 +58,25 @@ Blue Chip—516 Broad St.
 RESTAURANTS
 
 Sunrise—829 Pearl St.
-Blquoose—1303 Davis St.
-HivSun—7l‘)’ Davis St.
+Bleoose—1303 Davis St.
+Hi Sun—715' Davis St.
 
 DRUG STORES
-Imperial—Broad E? Ashley Ste.
+Imp erial—Broad E? Ashley Sts.
 
-Smith‘s—613 Ashley St.
+Smith 3—613 Ashley St.
 
 LAKE CITY
 
 TOURIST HOMES
-Mrs. M; McCoy ' 730 E. Leon St.
+Mrs. M. McCoy ' 730 E. Leon St.
 Rivers—931 Taylor Street
 
 RESTAURANTS
 Bill Rivers—931 Taylor St.
 
 BARBER SHOPS
-George’s-—-302 E. Railroad St.
+George’s—302 E. Railroad St.
 
 BEAUTY PARLORS
 Ruby’s—205 N. Dundee St.
@@ -103,22 +103,22 @@ MIAMI
 HOTELS
 Mary Elizabeth—642 N. W. 2nd Ave.
 
-Dorsey—941 N.W. 2nd Ave.
+Dorsey—941 N. W. 2nd Ave.
 
 BEAUTY PARLORS
-Progressive—1324 N. W. lat Court
-Elizabeth—175 N. W. 11th Terrace
-Charlows—l730 N. W. lat Court
+Progressive—1324 N. W. lst Court
+Elizgabeth—l75 N. W. llth Terrace
+Charlows—l730 N. W. lst Court
 Minnie’s—l46954 N. W. 5th Avenue
 
 BEAUTY SCHOOLS
 Sunlight—1011 N. W. 2nd Avenue
 
 TAVERNS
-Star—3rd Ave. at 15th St. N. W.
+Star—3rd Ave. 11: 15th St. N. W.
 
-LIQUOR STORES
-Cuban—1701 N. W. 4th Avenue
+LIQUOR 8%ORES
+Cuban—1701N4th Avenue
 
 Ideal—175 N. W. 11th St.
 Henry’s—379 N. W. 14th St.
@@ -127,12 +127,12 @@ TAILORS
 Valet—506 N. W. 14th St.
 
 TAXI CABS
-Brown’a—N. W. 8th St. a 2nd Ave.
+Brown’s—N. W. 8th St. a 2nd Ave.
 
 ORLANDO
 
 HOTELS
-vWella Bilt—509 W. South St.
+vWells Bilt—509 W. South St.
 
 PENSACOLA
 
@@ -163,8 +163,8 @@ Cool Spot—2619 Kings Avenue
 ST. AUGUSTINE
 
 TOURIST HOMES
-F. H. Kelley—83 Bridge St.
-H. G. Tye Apts.—l32 Central Avenue
+F. H. Kelley —83 Bridge St.
+H. G. Tye yApts. —l32 gCentral Avenue
 
 TAMPA
 
@@ -174,13 +174,11 @@ Central—1028 Central Avenue
 Dallas—829 Zack St.
 
 Rogers
+Py ramid—722 LaSalle St.
 
-Pyramid—722 LaSalle St.
-RESTAURANTS
-
+REYSTAURANTS
 Bruce’s—813 Scott St.
-
-Evening In Pair—1262 Scott St.
+Evening In Paris—1262 Scott St.
 
 Salamanca Street
 

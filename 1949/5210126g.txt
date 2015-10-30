@@ -1,4 +1,4 @@
-it St, 1
+m it. 1
 
    
 
@@ -20,7 +20,7 @@ cipal points of interest in Chicago.
 AIRPORTS —- Chicago Municipal
 Airport—63rd St. and Cicero Ave.
 
-t, ' One of the nations ﬁnest airports and
+I ' One of the nations ﬁnest airports and
 
 the greatest scene of aeronautical ac-
 tivity in the United States. Board
@@ -32,7 +32,7 @@ West on 63rd St. to Cicero Ave.
 AMUSEMENTS
 Riverside Park—Belmont and West-
 
- ern Aves. A large summer amuse-
+ern Aves. A large summer amuse-
 
 ment park. Take Riverview-Larrabee
 cars at Dearborn and Randolph Sts.
@@ -62,7 +62,7 @@ League baseball team. Take Clark-
 Wentworth or through Route N0. 22
 cars on Clark St., south to 35th St.
 
-WhathImf/Iimqo,
+WhathImﬂu'mqo,
 
 land VVentworth Ave. Baseball park,
 

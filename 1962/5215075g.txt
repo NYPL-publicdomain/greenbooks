@@ -1,33 +1,40 @@
  
 
-"rem:g_;ge;mmnr "gig; A. .  . y
+"rm:w;m.x:r $3735 A. . . 3
 
-POINTS OF INTEREST
+1 Statue of Liberty
 
-. Statue of Liberty
+1
+RESTAURANTS 3 ‘
+l
+l
+1
 
 New York City
 
 PARKS. ZOOS. AQUARIUM and GARDENS
 
-Battery Park .................................................... ..Lower Broadway at the Battery
-Botanical Gardens
+Battery Park ...................................................... Lower Broadway at the Battery
 
-Bryant Park .......................................................................... ..42nd St. at 6th Ave.
-Central Park Zoo .................................................... ..59th Street to 110th Street
-City Hall Park ............................................................ ..Broadway and Park Row
-Fort Tyron .................................................................. ..Myrtle and Nagle Streets
-Jacob Riis ................................................................................ ..Rockaway, Queens
-Prospect ............................................................ ..Flatbush Ave. and Empire Blvd.
-Van Cortlandt ...................................................... ..Broadway and 242nd Street
-Washington Square .................................................... ..5th Ave. and 4th Street
+Botanical Gardens
+Bryant Park ............................................................................ 42nd St. at 6th Ave.
+
+Central Park Zoo ...................................................... 59th Street to 110th Street
+City Hall Park .............................................................. Broadway and Park Row
+Fort Tyron .................................................................... Myrtle and Nagle Streets
+Jacob Riis .................................................................................. Rockaway, Queens
+Prospect .............................................................. Flatbush Ave. and Empire Blvd.
+Van Cortlandt ........................................................ Broadway and 242nd Street
+Washington Square ...................................................... 5th Ave. and 4th Street
+
+POINTS OF INTEREST
 
 Central Park and its Zoo
 
 Chinatown
 
 City Hall district and the Foley Square
-Columbia University ‘
+Columbia University 1
 
 Coney Island
 
@@ -41,16 +48,14 @@ Greenwich Village
 
 Hyden Planetarium
 
-International Airport !
+International Airport :1
 LaGuardia Field Airport
-l
-a
+1
+1
 
-z; E
-
-Bowery 9 
-Cathedral of St. John Divine i ;
- Seal
+Bowery
+Cathedral of St. John Divine i
+ESeal:
 
 Lever Building
 
@@ -66,25 +71,25 @@ Riverside Church
 Rockefeller Center
 
 Stuyvesant Town and Peter Cooper Village
-United Nations ' 
-Wall Stret district and the Stock Exchange  I
+United Nations '
 
-Washington Square and Washington Arch  l
+Wall Stret district and the Stock Exchange I
+Washington Square and Washington Arch
 
-RESTAURANTS _ Chin
-:5
+Avenue ................................................................................................ 509 Fifth Ave.
+Blue Bird Inn .......................................................................... 1211/2 E. 17th Street
+Bombay Indian ........................................................................ 465 W. 125th Street
+Bon Soir .......................................................................................... 40 W. 8th Street
 
-Avenue .............................................................................................. ..509 Fifth Ave.  1
+1
+3
+l
+3
 
-Blue Bird Inn ........................................................................ ..1211/2 E. 17th Street :3 %
+Brass Rail ............................................................................................ 100 Park Ave. 3
+521 Fifth Ave.
+745 Seventh Ave. «at
 
-Bombay Indian ...................................................................... ..465 W. 125th Street  i ‘
-Bon Soir ........................................................................................ ..40 W. 8th Street ‘3'
-
-Brass Rail .......................................................................................... ..100 Park Ave. '3
-
-521 Fifth Ave. 1 K
-745 Seventh Ave. 
 500 Eighth Ave. . -
 
  

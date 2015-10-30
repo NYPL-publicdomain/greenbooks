@@ -20,7 +20,7 @@ Mrs. W. Harrison, 1215 Greenwood
 
 Ave.
 LANSING
-TOURIST HOMES 1
+TOURIST HOMES ,
 Mrs. M. Gray, 1216 St. Josenh St.
 Mrs. Lewis, 816 18. Butler St.
 Mrs. Gaines, 1406 Albert St.
@@ -65,7 +65,7 @@ MINNESOTA
 
 MINNEAPOLIS
 IIOTELS
-Serville, 246% 4th Ave.
+Serville, 246% 4th' Ave.
 
 Golden West, 307 Wash. Ave. S.
 

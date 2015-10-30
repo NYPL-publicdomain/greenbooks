@@ -38,14 +38,14 @@ proaching a traffic light or halting for an emergency. One should always
 be on the watch for same as it requires added fuel to build up momentum.
 
 5 All.
- T01;
+Tot
 
 C01.
 H07”
 
 FL;
 
-‘ GEl
+‘ GEi
 
 To:
 

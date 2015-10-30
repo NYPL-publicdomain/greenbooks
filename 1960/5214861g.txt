@@ -1,25 +1,25 @@
  
 
-
-l
+,1
+1.
 
  
 
-w= ' a... a». ‘ .  y _ h g
+w= ' a... a». ‘ . _, y _ .. g
 
 SEATTLE
-Mar Hotel .......................................................................... ..511 Maynard Avenue
-Welcome Annex Hotel .................................................. ..6131/2 Iackson Avenue
-New Richmond Hotel .................................................................. ..308 4th Avenue
-Edmond Meany Tourist Home .............................. ..45th <3: Brooklyn, East
+Mar Hotel ............................................................................ 511 Maynard Avenue
+Welcome Annex Hotel .................................................... 6131/2 Iackson Avenue
+New Richmond Hotel .................................................................... 308 4th Avenue
+Edmond Meany Tourist Home ................................ 45th <3: Brooklyn, East
 SPOKANE
-Desert Hotel ...................................................................... ..725 West lst Avenue
-TACOMA v
-Monte Carlo Hotel .......................................................... ..1555 Tacoma Avenue
-Travelers Restaurant ...................................................... ..15061/2 Pacific Avenue
-Dittemore's Court ............................................................ ..12701 Pacific Highway
+Desert Hotel ........................................................................ 725 West lst Avenue
+TACOMA .
+Monte Carlo Hotel ............................................................ 1555 Tacoma Avenue
+Travelers Restaurant ........................................................ 15061/2 Pacific Avenue
+Dittemore's Court .............................................................. 12701 Pacific Highway
 VANCOUVER
-Ricketon’s New Motel ............................................................ .4010 Main Street
+Ricketon’s New Motel .............................................................. 4010 Main Street
 YAKIMA
 
 Senator Hotel
@@ -30,54 +30,54 @@ Hotels —- Motels — Tourist Homes — Restaurants
 
 BECKLEY
 
-New Pioneer Hotel .......................................................... ..340 S. Fayette Street
+New Pioneer Hotel ............................................................ 340 S. Fayette Street
 BLUEFIELD
 
-*HOTEL THELMA ...................................................................... ..1047 Wayne Street
+*HOTEL THELMA ........................................................................ 1047 Wayne Street
 
-Travelers’ Inn Hotel .......................................................... ..1039 Wayne Street
+Travelers’ Inn Hotel ............................................................ 1039 Wayne Street
 CHARLESTON
 
-Ferguson's Hotel ...................................................................... ..Washington Street
+Ferguson's Hotel ........................................................................ Washington Street
 
-Penn's Hotel ................................................................................ ..West Charleston
+Penn's Hotel .................................................................................. West Charleston
 CLARKESBURG
 
-Mrs. Ruby Thomas Lodgings .................................................. ..309 Water Street
+Mrs. Ruby Thomas Lodgings .................................................... 309 Water Street
 FRANKLIN
 
-Hotel Franklin ............................................................................ ..1291/2 Main Street
+Hotel Franklin .............................................................................. 1291/2 Main Street
 GRAFTON
 
-Mrs. Geo. Iones Lodgings .................................................................. ..Front Street
+Mrs. Geo. Iones Lodgings .................................................................... Front Street
 
-Iones’ Restaurant ............................................................................ ..Latrobe Street
+Iones' Restaurant .............................................................................. Latrobe Street
 HINTON .
 
-The Price House Hotel ............................................................ ..‘109 2nd Avenue
+The Price House Hotel .............................................................. ‘109 2nd Avenue
 
-Maya’s Guest House ......................................................................... ..State Street
+Maya’s Guest House ........................................................................... State Street
 HUNTINGTON
 
-The Ross House Hotel ................................................................ ..911 8th Avenue
+The Ross House Hotel .................................................................. 911 8th Avenue
 
-Mrs. C. I. Barnett Lodgings .................................................. “810 7th Avenue
+Mrs. C. I. Barnett Lodgings .................................................... 810 7th Avenue
 
-Spot Restaurant .......................................................................... ..1614 8th Avenue
+Spot Restaurant ............................................................................ 1614 8th Avenue
 KEYSTONE
 
-Franklin Hotel ......................................................................... ._1291/2 Main Street
+Franklin Hotel ........................................................................... 1291/2 Main Street
 MONTGOMERY
 
-New Royal Hotel ..................................................................... .223 Gaines Street
+New Royal Hotel ....................................................................... 223 Gaines Street
 MORGANTOWN
 
-Mrs. Linnie Mae Slaughter Lodgings ................................................ ..3 Cayton
+Mrs. Linnie Mae Slaughter Lodgings .................................................. 3 Cayton
 
-Mrs. Jeannette 0. Parker Lodgings .................................................... ..2 Cayton
+Mrs. Jeannette 0. Parker Lodgings ...................................................... 2 Cayton
 MOUNDSVILLE
 
-Mrs. Blanche Campbell Lodgings ........................................ ..1206 4th Street
+Mrs. Blanche Campbell Lodgings ..........................................
 NORTHFORK ‘
 
 Houchins Hotel 6: Cafe
@@ -89,10 +89,11 @@ WEI
 ’ Will
 
 mi
-in:
 
-at;
-LA 
+1:
+FON
+GEE;
+11 c
 
  
 

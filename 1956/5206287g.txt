@@ -6,11 +6,11 @@ RESERVATION BUREAU
 Taking a Trip? Attending a Convention?
 
 Be Sure of Reservations & Accommodations
-Unzted States - Canada - Mexico - Bermuda - West Indies
+United States - Canada - Mexico - Bermuda - West Indies
 
 Arrangements Made For You Through Our Reservation Bureau
-
 SEND US THE FOLLOWING INFORMATION
+
 0 Cities You Expect To Stop In
 
 0 Dates of Your Trip
@@ -28,12 +28,14 @@ Saves You Time and Money Write Reservation Bureau
 VICTOR H. GREEN & COMPANY
 200 West 135th Street Room 215A New York 30, N. Y.
 
+Smith Haven, RED. 2
+
  
 
-PINE BUSH ................................................................................................. ..Smith Haven, RED. 2
-RIFTON ......................................................................................... ..Maple Tree Inn, P. O. Box 116
-ROXBURY ............................................................. ..NeW Mt. View House, P. O. Box 120
-SARATOGA SPRINGS ..............  .......................................... ..Richards, 29 Ballston Ave
+PINE BUSH ...................................................................................................
+RIFTON ........................................................................................... Maple Tree Inn, P. O. Box 116
+ROXBURY ............................................................... New Mt. View House, P. O. Box 120
+SARATOGA SPRINGS ............................................ Richards, 29 Ballston Ave
 
 Spa, 1 W. Harrison St.
 
@@ -59,14 +61,11 @@ Rev. Caleb and Dr. Marie Nimmo, Props.
 
  
 
-AATSBURG ....................................................................................................... ..White Wall Manor
-untain View Farm, R. F. D. 16
+STAATSBURG ......................................................................................................... White Wall Manor
+Mountain View Farm, R. F. D. 16
+
+STORMVILLE ............................................................
 The Cecil Lodge, R. F. D.
-
-ST
-STORMVILLE .......................................................... ..Mo
-
-'76
 
  
 
@@ -77,18 +76,18 @@ i 516
 v Silt
 
 l
-t
+.
 E .
 E
 l.
 l
 
-g y
+i ,
 
-j s
-a
+j x
 l
-i
+l
+g
 
 r
 

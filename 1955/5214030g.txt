@@ -54,7 +54,7 @@ Bonita’s, 254 William St.
 BARBER SHOP
 People’s, 433 Williams St.
 TAVERNS
-Jay G. Stamper, Prop., 192 B’way
+Jay G. Stamper, Prop, 192 B’way
 Pearls, 474 Michigan Ave.
 Clover Leaf, 443 Michigan Ave.
 
@@ -88,7 +88,7 @@ Your Tire, 250 Broadway
 TAILORS
 Eagle, 414 Eagle St.
 Reeve’s, 119 Clinton St.
-Mickey’s, 544 Williams S‘t.
+Mickey’s, 544 Williams St.
 Sam’s, 270 William St.
 Byrd’s, 473 Broadway
 Bell, 197 William St.
@@ -142,10 +142,10 @@ Mrs. Alice Ford, 413 First St.
 Mrs. Brown, 1202 Haeberie Ave.
 Mrs. T. Davis, 319 12th St.
 A. E. Gabriel, 635 Erie Ave.
-Mrs, M. Francis, 219 10th St:
+Mrs. M. Francis, 219 10th St:
 Mrs. F. T. Young, 421 1st St.
 TAVERNS
-Cephas, 621 Erie Ave.
+Cephas, 6121 Erie Ave.
 
 NYACK
 NIGHT CLUBS

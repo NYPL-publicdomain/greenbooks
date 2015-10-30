@@ -2,60 +2,56 @@
 
  
 
-' "17‘, Street "
+' ”17‘, Street "
 
-3.2: Street '
+3.2: 311991 '
 
-~'~' “: Steel
-
- 
+7" “2 Steel
 
  
 
-*MRS ALICE FORD TOURIST HOME .......................................... ..413,.lst_,Street
-Hutchinson Tourist Home ................................................ ..1050 Center Avenue
-W. L. Parker Tourist Home .................................................... ..627 Erie Avenue
-Mrs. R. Reynolds Tourist Home ............................................ ..419 lst Avenue
-Mrs. Brown Tourist Home ........................................ ..1202 Haeberie Avenue
-Mrs. T. Davis Tourist Home ...................................................... ..319 '12th Street
-A. E. Gabriel Tourist Home .................................................... ..635 Erie Avenue
-Mrs. M. Francis Tourist Home ................................................ ..219 10th Street
-Mrs. P. T. Young Tourist Home .................................................. ..421 lst Street
-*CARV'ER’S RESTAURANT .......................................................... ..216 13th Street
-*HAMILTON'S RESTAURANT ..................................... ..3204 Highland Avenue
-Mrs. Eugene Ellis Tourist Home .................................... ..3501 Royal Avenue
+ 
+
+*MRS ALICE FORD TOURIST HOME ............................................ 413,.lst_:Street
+Hutchinson Tourist Home .................................................. 1050 Center Avenue
+W. L. Parker Tourist Home ...................................................... 627 Erie Avenue
+Mrs. R. Reynolds Tourist Home .............................................. 419 1st Avenue
+Mrs. Brown Tourist Home .......................................... 1202 Haeberle Avenue
+Mrs. T. Davis Tourist Home ........................................................ 319 '12th Street
+A. E. Gabriel Tourist Home ...................................................... 635 Erie Avenue
+Mrs. M. Francis Tourist Home .................................................. 219 10th Street
+Mrs. P. T. Young Tourist Home .................................................... 421 1st Street
+*CARV'ER’S RESTAURANT ............................................................ 2.16 13th Street
+*HAMILTON'S RESTAURANT ....................................... 3204 Highland Avenue
+Mrs. Eugene Ellis Tourist Home ...................................... 3501 Royal Avenue
 OSSINING
-
-Depot Square Hotel .................................................................... ..2 Water Street
-
+Depot Square Hotel ...................................................................... 2 Water Street
 PORT IERV'IS
-R. Pendelton Tourist Home ...................................................... ..26 Bruce Street
+R. Pendelton Tourist Home ........................................................ 26 Bruce Street
 POUGHKEEPSIE
-Le Chalet Motel .............................. ..U.S. 9, 4 miles North of Poughkeepsie
+Le Chalet Motel ................................ US. 9, 4 miles North of Poughkeepsie
 RIVERHEAD
-Peter's Motel ............................................................................ ..223 Flanders Road
+Peter's Motel .............................................................................. 223 Flanders Road
 ROCHESTER
-Gibson Hotel ............................................................................ ..461 Clariss Street
-Mrs. Allie 0. King Tourist Home .................................... ..456 Clarissa Street
-Mrs. Latimer Tourist Home ................................ ..983 S. Playmouth Avenue
-La Rue Restaurant ...................................................... ., ...... ..491 Clarissa Street
+Gibson Hotel .............................................................................. 461 Clariss Street
+Mrs. Allie 0. King Tourist Home ...................................... 456 Clarissa Street
+Mrs. Latimer Tourist Home .................................. 983 S. Playmouth Avenue
+La Rue Restaurant ........ 491 Clarissa Street
 SCHENECTADY
-Foster House Hotel ................................................................ ..310 Dakota Street
-Mrs. Grant Thomas Tourist Home .............................................. ..1024 Albany
-
-SARATO GA SPRINGS
-
-Iames Tourist Home ...................................................................... ..
-Mrs. Iohn Parker Tourist Home ............................................ ..18 Cherry Street
+Foster House Hotel .................................................................. 310 Dakota Street
+Mrs. Grant Thomas Tourist Home ................................................ 1024 Albany
+SARATOGA SPRINGS
+Iames Tourist Home ........................................................................ 17 Park Street
+Mrs. Iohn Parker Tourist Home .............................................. .18 Cherry Street
 SYRACUSE ,
-The Sylvan Tourist Home .............................................. ..815 E. Fayette Street
-Y.M.C.A. .......................................................................... ..340 Montgomery Street
-Aunt Edith's Restaurant ................................................ ..6011/2 Harrison Street
+The Sylvan Tourist Home ................................................ 815 E. Fayette Street
+Y.M.C.A. ............................................................................ 340 Montgomery Street
+Aunt Edith's Restaurant .................................................. 6011/2 Harrison Street
 TICONDEROGA
 
-.......................... ..Corner Montcalm Street & Wayne Avenue
+Corner Montcalm Street & Wayne Avenue
 
 57
 
-Belfred Court
+Belfred Court ............................
 

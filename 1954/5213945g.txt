@@ -33,7 +33,7 @@ The Greenbriar, Pine Bush
 
 EGG‘ HARBOR
 
-HOTELS V
+HOTELS ,
 Allen House, 625 Cincinnati Ave.
 TAVERNS
 Red, White & Blue Inn, 701 Phiia.
@@ -50,7 +50,7 @@ Hunter’s, 1197 E. Broad St.
 
 ENGLEWOOD
 TAVERNS
-The Lincoln. 1—3 Englewood Ave.
+The Lincoln, 1—3 Englewood Ave.
 LIQUOR STORES
 W. E. Beverage Co., 107 William
 
@@ -136,7 +136,7 @@ BARBER SHOPS
 Henry Smith, Mouldy Rd.
 
 RECREATION PARK
-Lawnside Park
+Lvawnside Park
 
 SERVICE STATIONS
 Newton’s, White Horse Pike
@@ -149,7 +149,7 @@ Victory, 1305 Baltimore Ave.
 LONG BRANCH
 TAVERNS
 Club ‘45’, Liberty St.
-Sam Hall, 180 Belmont St.
+S'am Hall, 180 Belmont St.
 Tally-Ho, 44 Liberty St.
 
 MADISON
@@ -174,7 +174,7 @@ Y.M.C.A., 39 Washington St.
 Y.W.C.A., 159 Glenridge Ave.
 RESTAURANTS
 Tabard’s, 144 Bloomﬁeld Ave.
-Blue Front, 154 Bloomﬁeld Ave.
+Blue Front, 154 Bloomfield Ave.
 
   
 

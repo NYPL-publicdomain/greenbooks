@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./1948/5208051g.jpg"; bbox 0 0 2854 3999; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 706 216 1920 265">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 706 216 1920 265">
+     <span class='ocr_line' id='line_1_1' title="bbox 706 216 1920 265; baseline -0.006 -1"><span class='ocrx_word' id='word_1_1' title='bbox 706 223 930 265; x_wconf 67' lang='eng' dir='ltr'><strong>PLEASE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 971 222 1243 263; x_wconf 83' lang='eng' dir='ltr'><strong>MENTION</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1290 223 1441 263; x_wconf 77' lang='eng' dir='ltr'><strong>”THE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1483 220 1680 263; x_wconf 81' lang='eng' dir='ltr'><strong>GREEN</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1721 216 1920 259; x_wconf 77' lang='eng' dir='ltr'><strong>BOOK“</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1092 3713 1107 3727">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1092 3713 1107 3727">
+     <span class='ocr_line' id='line_1_2' title="bbox 1092 3713 1107 3727; baseline -0.133 0"><span class='ocrx_word' id='word_1_6' title='bbox 1092 3713 1107 3727; x_wconf 62' lang='eng'><strong>2.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 244 3760 2449 3817">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 244 3760 2449 3817">
+     <span class='ocr_line' id='line_1_3' title="bbox 244 3760 2449 3817; baseline -0.009 -1"><span class='ocrx_word' id='word_1_7' title='bbox 244 3775 579 3817; x_wconf 89' lang='eng' dir='ltr'>MIDTOWN</span> <span class='ocrx_word' id='word_1_8' title='bbox 614 3763 1167 3815; x_wconf 85' lang='eng' dir='ltr'><strong>MANHATTAN—R.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1188 3774 1242 3812; x_wconf 91' lang='eng' dir='ltr'><strong>c.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1263 3773 1322 3811; x_wconf 87' lang='eng' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1342 3768 1669 3810; x_wconf 89' lang='eng' dir='ltr'>BUILDING</span> <span class='ocrx_word' id='word_1_12' title='bbox 1704 3766 1776 3805; x_wconf 90' lang='eng' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1812 3764 1941 3804; x_wconf 84' lang='eng' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1980 3760 2449 3802; x_wconf 82' lang='eng' dir='ltr'>BACKGROUND</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2854 3999">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2854 3999">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2854 3999; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 2854 3999; x_wconf 95' lang='eng' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

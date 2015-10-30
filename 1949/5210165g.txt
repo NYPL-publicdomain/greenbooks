@@ -37,12 +37,12 @@ SERVICE. STATIONS
 Brooklyn—4th & Taylor Sts.
 
 GARAGES
-Fennell’s—IZ4 So. l3tth St.
+Fennell’s—l24 So. l3tth St.
 
 DRUG STORES
 Fair Price—611 Castle St.
 Ideal—517 Red Cross St.
-Lane’s—4th & Bladen Sts.
+Lane‘s—4th & Bladen Sts.
 
 TAXI CABS
 Star—Dial 9259
@@ -74,7 +74,7 @@ TOURIST HOMES
 R. Wilson—370 Robert St.
 
 BEAUTY PARLORS
-r Beauty Salon—70 N. Howard St.
+, Beauty Salon—70 N. Howard St.
 
 BARBER SHOPS
 Goodwill’s—422 Robert St.
@@ -111,7 +111,7 @@ BEAUTY PARLORS
 Vanitie—SZS Cherry Ave. S. E.
 
 BARBER SHOPS
-Barber-525 Cherry Ave. S. E.
+Barbee-525 Cherry Ave. S. E.
 
 DRUG STORES
 Southside—-—415 Cherry Ave. S. E.
@@ -124,9 +124,9 @@ Terminal—1103 Hopkins St.
 Ethel Buckner—505 W. 8th St.
 
 HOTELS
-Sterling—6th 8t Mound Sta.
-Cordella—612 N. 6th St.
-Manse—1004 Chapel St.
+Sterling—6th 8t Mound Sts.
+Cordelia—612 N. 6th St.
+Manse—1004- Chapel St.
 
 TOURIST HOMES
 O. Steele—3065 Kerper St.
@@ -158,7 +158,7 @@ Felix Savage—George and John St.
 Henry’s Shack—528 Mound St.
 Wm. Taylor's—500 W. Court St.
 Busy Bee Cafe—809 John St.
-Paul Williams——llOl Simmons St.
+Paul Williams—4101 Simmons St.
 Lula Ward—626 Mound St.
 
 CHINESE RESTAURANTS

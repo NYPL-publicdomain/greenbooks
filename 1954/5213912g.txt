@@ -67,7 +67,7 @@ PHOENIX
 HOTELS
 
 Paducah Hotel
-14 N0. 6th Street
+14 NO. 6th Street
 
 Winston Inn
 
@@ -115,7 +115,7 @@ DRUG STORES ‘
 Johnson’s, 1140 E. Washington St.
 LIQUOR STORES
 
-Broadway, 1606 East Broadway“
+Broadway, 1606 East Broadway
 
 TUCSON
 TOURIST HOMES .
@@ -159,7 +159,7 @@ HOTELS
 
 Summer Hotel
 
-7541/2 Adams St. S.W.
+7541/2 Adams St. SW.
 
 TOURIST HOMES
 

@@ -5,39 +5,36 @@
 ':: Street
 ', {venue
 
-..u ‘IID‘
+.u ‘IID‘
 . ~ .vv
 
-‘0
-1:: meet
-
 ll 1
- «2 .
+«2 .
 
-t M‘ A
- DO.
+r M‘ A
+DO.
 
  
 
 KOKOMO
-Mrs. C. W. Winbum Tourist Home ............................ ..1015 Kennedy Street
-Mrs. Charles Hardinson Tourist Home ........................ ..812 Kennedy Street
-Mrs. S. D. Hughes Tourist Home .......................... ..1045 N. Kennedy Street
+Mrs. C. W. Winbum Tourist Home .............................. 1015 Kennedy Street
+Mrs. Charles Hardinson Tourist Home .......................... 812 Kennedy Street
+Mrs. S. D. Hughes Tourist Home ............................ 1045 N. Kennedy Street
 LAFAYETTE
-Green Acres Mqtel ............................................................... ..‘ ..... ..Hwy. '52, North 
-MARION » 
-Marshal's Restaurant .................................................. ..414-418' East 4th Street 1
-Mrs. Albert Ward Tourist Home .................................. ..324 West 14th Street
+Green Acres Motel ....... Hwy. '52, North (
+MARION » f
+Marshal's Restaurant .................................................... 414-418 East 4th Street Y
+Mrs. Albert Ward Tourist Home .................................... 324 West 14th Street
 MICHIGAN CITY
-Allen's Tourist Home .......................................................... ..210 East 2nd Street
+Allen's Tourist Home ............................................................ 210 East 2nd Street
 MUNICE t
-Gray's Motel .......................................................................... ..3600 No'. Broadway 1
-Y.M.C.A. ................................................................................ ..9065 Madison Street ‘1
+Gray's Motel ............................................................................ 3600 No. Broadway 1
+Y.M.C.A. .................................................................................. 9065 Madison Street ‘1
 SOUTH BEND
-Alou Tourist Hotel ......................................................... ..2261 Dixie Way, North
-Smokes Restaurant .......................................................... ..432 So. Chapin Street
+Alou Tourist Hotel ........................................................... 2261 Dixie Way, North
+Smokes Restaurant ............................................................ 432 So. Chapin Street
 VINCENNES ‘
-Grand Hotel .................................................................................... ..P. O. Box 118
+Grand Hotel ...................................................................................... P. O. Box 118
 
 WEST BADEN SPRINGS
 Waddy Hotel
@@ -48,15 +45,14 @@ Hotels — Motels — Tourist Homes — Restaurants
 
 CEDAR RAPIDS
 
-Brown’s Tourist Home .................................................... ..818 9th Avenue, SE.
-Sepia Motel .................................................................... ..Mt. Vernon Road, S.E. V
-CLINTON 5
-Mississippi View Motel ................................................................ .2626 Harding
+Brown’s Tourist Home ...................................................... 818 9th Avenue, SE.
+Sepia Motel ...................................................................... Mt. Vernon Road, SE ,
+CLINTON *
+Mississippi View Motel .................................................................. 2626 Harding
 COUNCIL BLUFFS
-Grove Motel .................................................................... ..So. Omaha Bridge Rd.
-Woodland Echoes Village ............................................................ ..429 N. 27th
+Grove Motel ...................................................................... So. Omaha Bridge Rd.
 
-39
+Woodland Echoes Village .............................................................. 429 N. 27th
 
  
 

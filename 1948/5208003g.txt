@@ -24,11 +24,11 @@ confidence and satisfaction.
 
 KELLER CARS
 
-I A new car in the automobile ﬁeld designed on a new principle, whose price is low and is
-of interest to everyone who wants a new car or who IS contemplating
+. A new car in the automobile ﬁeld designed on a new principle, whose price is low and is
+of interest to everyone who wants a new car or who is contemplating
 turning in their old car for a new one.
 
-r Twenty-four months of precious post
+, Twenty-four months of precious post
 - war marketing time and many thou-
 ; sands of miles of vigorous road test-
 
@@ -43,7 +43,7 @@ Chief”, new size automobiles, pre-
 sented by Keller Motors Corporation
 of Huntsville, Alabama, precedes the
 
-I first public showing of these surpris-
+. first public showing of these surpris-
 
 ' ing cars in the main lobby of Hotel
 Pennsylvania from October ZISt thru

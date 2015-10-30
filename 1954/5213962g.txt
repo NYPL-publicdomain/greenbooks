@@ -60,7 +60,7 @@ SERVICE STATIONS
 Smith’s, 228 N. 2nd St.
 
 AUTOMOTIVE
-Smith Tire CO., 2nd & Denison Sts.
+Smith Tire 00., 2nd & Denison Sts.
 
 GARAGES
 Middleton’s, 420 N. 2nd St.
@@ -92,7 +92,7 @@ TOURIST HOMES
 
 Scrugg’s, 420 N. Laird St.
 
-Cortland Rms., 6129 N. E. 4th St.
+Cortland Rms., 629 N. E. 4th St.
 
 Tucker’s, 315% N. E. 2nd St.
 
@@ -144,7 +144,7 @@ Y.W.C.A.. 1120 East Pine
 Lafayette, 604 E. Archer St.
 McI—Iunt. 1121 N. Greenwood Ave.
 Small, 615 E. Archer
-Del Rio, 607% N. Greenwood
+Del Bio, 607% N. Greenwood
 Miller. 124 N. Hartford St.
 TOURIST HOMES
 W. H. Smith. 124% N. Greenwood
@@ -153,7 +153,7 @@ RESTAURANTS
 Chicken Shack, 316 N. Elgin
 Art’s Chili Parlor, 110 N. Green-
 wood
-The Upstairs Dining Rm. 119% N.
+The Upstairs Dining Rm. 1191/2 N.
 Greenwood
 
 BEAUTY PARLORS
@@ -245,4 +245,6 @@ Mrs. H. Shorter, 2620 8th St.
   
 
  
+
+,,,,,
 

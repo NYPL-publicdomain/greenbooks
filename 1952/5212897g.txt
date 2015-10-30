@@ -87,7 +87,7 @@ Lindsey’s—3805 Page Blvd.
 Snack Shop—1105 N. Taylor
 Harlem Grill—3438 Franklin
 Nick’s Snack House—1109 Sarah
-Wike’s—ItSU4 N. Taylor Ave.
+Wike’s—lt504 N. Taylor Ave.
 Ding—Ling End—731 Leland Ave.
 Roma—3839 Finney Ave.
 Hunter's—2610 Delmar Blvd.
@@ -98,12 +98,12 @@ Nick’s—1109 Sarah
 BEAUTY PARLORS
 Allen’s—2343 Market St.
 Shaw’s—4356 Easton-l3
-JuvilI—414l Easton-l3
+Juvill—414l Easton-l3
 Young’s—2005 Pine St.
 Azalie—47l6-A Ashland
 Amanda’s—1021 N. Cardinal Ave.-6
 Boulevard—4554 N ewberry Ter.
-Parkway—4284 W. St. & Ferdinand-l3
+Parkway—4284 W. St. & Ferdinand-I3
 Argus—1008 N. Sarah St.
 Montgomery—1033 N. Compton Ave.
 Harris—919 Ohio Avenue
@@ -139,7 +139,7 @@ Carioca—lllZVa N. Sarah St.
 West End—939 N. Vanderventer Ave.
 Hawaiian—3839 Finney Ave.
 
-Play House—407l Page Blvd.
+Play House—407i Page Blvd.
 Pullman Club—2033 Market St.
 Roma—3839 Finney Ave.
 Casbah—2605 Cass Ave.

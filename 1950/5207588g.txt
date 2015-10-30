@@ -1,8 +1,10 @@
-m WESTCHESTER
-Lm; NEVADA
-\ 
+NEW MEXICO
 
-' WHITE PLAINS (cont)
+l
+
+Lm; NEVADA
+\ :
+i WHITE PLAINS (cont)
 
 I TAXI CABS
 ' Martine—SS Martine Ave.
@@ -24,8 +26,8 @@ Billise Ross—520 Spokane St.
 LAS VEGAS
 
 TOURIST HOMES
-Harrison’s Guest House#1001 North  Sr.
-Shaw Apts.—6l9 Van Buren St.
+Harrison’s Guest House#1001 North I St.
+Shaw Apts.—619 Van Buren St.
 
 NEW HAMPSHIRE
 
@@ -42,7 +44,7 @@ Ideal
 
 TOURIST HOMES
 Mrs. Kate Duncan—423 North Arno St.
-Mrs. W, Bailey—“27 N. and 51.
+Mrs. W, Bailey—”27 N. and Si.
 
 ‘ ' RESTAURANTS
 ;, Aunt Brenda's—406 North Arno St.
@@ -75,53 +77,43 @@ LORDSBURG
 HIGHTOWER’S MOTEL
 Phone 243 'Rv3
 
-Modem with Private Bath r Lunch Room
+Modem with Private Bath . Lunch Room
 Located 1 mile east of Lordsburg, Rts. 70 E? 80
 
 Direct Route to and from the West Coast
-
 Rochester and Leona LORDSBURG, N. M.
 
  
 
 61
 
-IN PATRONIZIING THESE PLACES
-
  
-
-NEW MEXICO
-N. CAROLINA
 
  
 
 ROSWELL
 
 TOURIST HOBIES
-Vlrs \/larv Collins—lZl E.
+Vlrs \/larv Collins—lZl E. 10th St.
 
 R. Brown—313 W. Math
 Mrs. George A. Brown
 
-RESTAITRANTS
+RESTAITRANTS»
 Sun Set Cafe—11')" E. Walnut St.
 
 TUCUMCARI
-TOURIST FIONIES
+TOTTRTST HONTES
 ROCKETT INN
 524 W. CAMPBELL AVE.
 
 June’s Rooms—Box 1002
 
 BARBER SHOPS
-Henry Jones—211 N.
+Henry Jones—211 N. 5th St.
 
 GARAGES
 Swift’s—Hiway 66
-
-10th St.
-
-5th St.
 
 NORTH CAROLINA
 
@@ -157,21 +149,21 @@ Alexander—~523 N. McDowell St.
 RESTAURANTS
 Ingram’s—304 So. McDowell St.
 
-Elite—434 r lst St.
-BEAUTY I’ARLORS
-Fronnmw—"QOA l~2 F. First St.
+Elite—434 . lst St.
+BEAUTY PARLORS
+Fronnmw—"QOA l~2 E, First St.
 Majic—1632 S. 4th St.
 
 Martha’s—5'09 E. 2nd St.
-Margie’s—1632 80. 4th St.
+Margie’s—1632 So. 4th St.
 
 BARBER SHOPS
 2nd St.'—500 E. 2nd St.
 
 Martha’s—509 E. 2nd St.
-DH UG ST()R ES
+DH Ub‘r ST()R ES
 
-Gilmore—2205 Booker Ave.
+Gilmore—2205' Booker Ave.
 
 Charlotte—«ZOO E. Trade St.
 
@@ -181,7 +173,7 @@ TAILORS
 New Way—935 E. 9th St.
 
 SERVICE STATIONS
-Rishcm Dale—First 81 Prevqrd Sts.
+Rishon Dale—First 81 Prevqrd Sts.
 
 Bob Roberson’s—701 Trade St;
 

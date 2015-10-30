@@ -53,7 +53,7 @@ GARAGES
 
 Cardell’s, 323 Orange Rd.
 
-Maple Ave, 91 Maple Ave.
+Maple Ave., 91 Maple Ave.
 TAXI CABS
 
 Edmonds, 173 Bloomﬁeld Ave.
@@ -117,7 +117,7 @@ Queen, 155 Barclay St.
 Five—Star, 185 Kinney St.
 BARBER SHOPS
 
-El Idellio, 30 Wright St.
+E1 Idellio, 30 Wright St.
 TAVERNS
 
 Little Charles, 581 Central Ave.

@@ -1,4 +1,4 @@
-Please Mention the "Green Boo/2”
+Please Mention the "Green Book”
 
 GARAGES
 Richradson & Smith, 108 E. Lenoir
@@ -85,7 +85,7 @@ Ollie’s, 415% S. 7th St.
 Blue Bird, 618 Castle St.
 BEAUTY PARLORS
 Beth’s, 416 Anderson St.
-Lezora, 609 Red Cross 
+Lezora, 609 Red Cross St.
 Germany’s, 715 Red Cross St.
 Lou’s, 820 Red Cross St.
 Newkirk’s, 1217 Castle St.
@@ -123,7 +123,7 @@ SERVICE STATIONS
 Brooklyn, 4th & Taylor Sts.
 GARAGES
 
-Fennell’s, 124 So. 13th St.
+Fennell’s, 124 S0. 13th St.
 DRUG STORES
 
 Lane’s, 4th & Bladen Sts.
@@ -135,7 +135,7 @@ Mack’s, Dial 7645
 
 Dixie, 516 S. 7 St.
 
-Tom’s, 418 McRae St.
+Tom’s, 413 McRae St.
 
 Crosby’s , Dial 9246
 
@@ -183,7 +183,7 @@ Mrs. James Pettress, RFD 2
 CANTON
 'HOTELS
 
-Phillis Wheatly Asso., 612 Market:
+Phillis Wheatly Asso., 612 Market
 Ave. So.
 
 DRUG STORES
@@ -192,7 +192,7 @@ Southside, 503 Cherry Ave., S. E.
  
 
 H01
-m
+6
 
 RF}
 

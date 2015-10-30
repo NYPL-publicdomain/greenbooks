@@ -5,7 +5,7 @@ RESTAURANTS
 Hi-Lo, 1686 O’Farrell St.
 BARBER SHOPS
 
-Hillside, 5267 3rd St.
+Hillside, 5267 8rd St.
 TAVERNS
 
 Jack’s, 1931 Suite!’ St.
@@ -82,16 +82,16 @@ Landers, 2460 Marion St.
 Ford, 2527 Humboldt St.
 
 BARBER SHOPS
-Roxy, 2559 Welton St.
+Roxy, 2559 VVelton St.
 20th Century, 2727 Welton St.
 TAVERNS
-Rossonian Lounge. 2650 \Vollon St.
+Rossonian Tmunge. 2650 \Vellon St.
 Arcade, 739 E. 26th Ave.
 Archie’s, 2449 Larimer St.
 LIQUOR STORES
 Lincoln, 2636 Welton St.
 Aristocrat, 3101 William St.
-18th Ave.. 1314 E. 17th Ave.
+18th Ave. 1314 E. 17th Ave.
 SERVICE STATIONS
 Da—Nite, 729 E. 26th Ave.
 White, 2655 Downing St.
@@ -151,15 +151,15 @@ Grand, 114 W. 4th St.
 
  
 
-mt
+mt,
 Bi}
-BS1?»
-nit
+3-9?»
+mgr
 
 Hill
 
 a
-m 5 :3 :43. Sad  $1.:
+m 5 :3 :43. Sad $1.:
 
 ‘11";
 

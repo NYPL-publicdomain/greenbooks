@@ -1,11 +1,11 @@
 ’ "1. 3L.
 
--. 1’2. . 
+.. 1’2. . MS
 
 VIRGINIA
 WASHINGTON
 
-R] CHMOND
+RI CHMOND
 
 HOTELS
 
@@ -29,7 +29,7 @@ Market Inn—Washington Park
 SERVICE STATIONS
 
 Vaughn—1701 Chamberlayne Ave.
-Cameron’s—Brook Ave. 8: W. Clay St
+Cameron’s—Brook Ave. 8: W. Clay 3.
 Harris—400 N. Henry St.
 
 Adam St.—523 N. Adams St.
@@ -100,7 +100,7 @@ Lonely Hour Inn—Rt. 460
 TAPPAHANNOCR
 HOTELS
 
-McGuire’e Inn—Marsh St.
+McGuire’s Inn—Marsh St.
 Mark—Haven Beach
 
 WARRENTON
@@ -113,7 +113,7 @@ Walker’s—5 th Street
 
 BEAUTY PARLORS
 Fowlers—123 N. 3rd St.
-Pinn—lZl - 5th St.
+Finn—121 - 5th St.
 
 TAXI CABS
 
@@ -175,7 +175,7 @@ Vctory—652 Jackson St.
 BARBER SHOPS
 Hayes—2227 E. MadIson St.
 Stockards—2032 E. Madison St.
-Atlas—410 Maynard Ave.
+Atlas—410 Maynard Ave;
 
  
 

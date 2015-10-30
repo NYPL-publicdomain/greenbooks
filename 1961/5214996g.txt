@@ -1,67 +1,60 @@
+   
+
+ 
+
  
 
  
 
-CUERNAVACA
-*HOTEL CAPRI
-*HOTEL MAN'DELL .............................................. ..Cuernavaca Rd.. Hwy. No. 95
-*BUTCH'S MANHATTAN TOURIST HOME .................................. ..On the Hwy.
- ENSENADA
-*IAMES LITTLEIOHN MOTEL .......................................................... ..Highway 101
+ 
+
+ 
+
+ 
+
+ 
+
+§§§Z§Feet CUERNAVACA
+lt-sfﬁiu’e *HOTEL CAPRI
+151.; 3:991 *HOTEL MAN'DELL ................................................ Cuernavaca Rd.. Hwy. No. 95
+weer *BUTCH’S MANHATTAN TOURIST HOME .................................... On the Hwy.
+”53““ ENSENADA
+39.53105 *IAMES LITTLEIOHN MOTEL ............................................................ Highway 101
 IACALA
 1 *PEMEX TOURIST HOME
 ' MEXICO CITY “
-*HOTEL REFORMA .......................................................... ..Paseo De La Relorma
-*HOTEL DEL PRADO .............................................................. ..Avenida Iuarez 70
-*HOTEL RITZ ...........................................  ................................ ..Avenida Madero 30
-*HOTEL PRINCE .............................................................................. ..Luis Moya 12
-*AMBASSADEURS RESTAURANT .......................... ..Paseo De La Reforma 12
-*SANBORN'S RESTAURANT ...................................... ..Paseo De La Reforma 45
-*HOTEL CARLTON ...................................................................... ..Ignacia Marisca
-*MORRIS WILLIAMS TOURS .............................................. ..Ave. Iuarez. 56-504
- i MONTERREY
-“ *HOTEL RIO
-*HOTEL SAN ANTONIO .......................................................... ..Larado Highway
-*HOTEL GENOVA ............................................................................. ..Madero Blvd.
-*SANBORN’S RESTAURANT .......................................................... ..Escobedo 920
+*HOTEL REFORMA ............................................................ Paseo De La Relorma
+*HOTEL DEL PRADO ................................................................ Avenida Iuarez 70
+*HOTEL RITZ ............................................. I .................................. Avenida Madere 30
+*HOTEL PRINCE ................................................................................ Luis Moya 12
+*AMBASSADEURS RESTAURANT ............................ Paseo De La Reforma 12
+*SANBORN'S RESTAURANT ........................................ Paseo De La Reforma 45
+*HOTEL CARLTON ........................................................................ Ignacia Marisca
+5 *MORRIS WILLIAMS TOURS ................................................ Ave. Iuarez. 56-504
+i MONTERREY
+555.: . *HOTEL RIO .
+-, E *HOTEL SAN ANTONIO ............................................................ Larado Highway
+3 *HOTEL GENOVA ............................................................................... Madero Blvd.
+*SANBORN'S RESTAURANT ............................................................ Escobedo 920
 OAXACA
 *HOTEL VICTORIA
-*OXACA MOTOR COURT .................................................. ..Pan-American Hwy.
+*OXACA MOTOR COURT .................................................... Pan-American Hwy.
 , TAXCO
-*HOTEL VICTORIA
+0:5ch *HOTEL VICTORIA
 *HOTEL SANTA PRISCA
+:reet
 TAMAZUNCHALE
-*PEMEX TOURIST HOME
-VERA CRUZ
-‘ *HOTEL EMPORIA
-*VILLA DEL MAR ..................................................... ..M. Avila Camacho Blvd.
-
-5299‘: South
-
- 
-
+1-522: Prop. *PEMEX TOURIST HOME
+i?:x€06 VERA CRUZ
+i *HOTEL EMPORIA
+51399? South *VILLA DEL MAR ....................................................... M. Avila Camacho Blvd.
 WEST INDIES
-
 BARBADOES
+,n...:a.~c38 San Remo Beach Hotel x
 
-San Remo Beach Hotel
-White Sands Beach Hotel ...................................................... ..St. Lawrence 21
+,,,,,
 
-121
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+White Sands Beach Hotel ........................................................ St. Lawrence 21
 
  
 

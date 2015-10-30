@@ -7,17 +7,19 @@
    
     
    
-     
-     
-   
-  
-  
-  
-  
     
-   
     
+      
+    
+    
+  
+  
+  
+ 
    
+   
+ 
+      
 
 “Always a Friendly Welcome"
 
@@ -34,17 +36,17 @@ ARIZONA
 Hotels ——- Motels —— Tourist Homes —- Restaurants
 
 B-ISBEE
-Hotel Copper Queen 
+Hotel Copper Queen {
 l 4 CASA GRANDE g
 
-Deluxe Motel .................................................................................. ..Hwy. 84, East
+Deluxe Motel ..................................................................................... Hwy. 84, East
 ‘ 3 DOUGLAS
 
-Faustina Wilson Tourist Home ............................  ................. ..lO‘02 16th Street
+Faustina Wilson Tourist Home .............................. . ................... 1002 16th Street
 ‘ FLAG STAFF
 
-Park Plaza Motel .................................................................................... ..Rts. 66 <5: 89
-El Rancho Flag Staff ................................................................................ ..Box 1241
+Park Plaza Motel ...................................................................................... Rts. 66 <5: 89
+El Rancho Flag Staff .................................................................................. Box 1241
 
 GRAND CANYON
 
@@ -52,21 +54,18 @@ Bright Angle
 E El Toya Hotel
 
 g KINGMAN
-White Rock Court ........................................ ..843 E. Andy Devine
-
-Comfortable Facilities to Rest. Eat and Relax
-
-White Rock Motel .................................................... ..Rt. 66, East End of Town
-Mountain Villa Motel ...................................................................... ..Hwy. 66, East
-
-MESA
-Peter Pan Motel ................................................................................. .620 Main St.
-NOGALES
-
-El Porto Motel ...................................................................................... ..Tucon Road
-13
+White Rock Court .......................................... 843 E. Andy Devine
 
 a «ma-'\.
+
+White Rock Motel ...................................................... Rt. 66, East End of Town
+........................................................................ Hwy. 66, East
+
+MESA
+Peter Pan Motel ................................................................................... 620 Main St.
+NOGALES
+
+El Porto Motel ........................................................................................ Tucon Road
 
 \
 

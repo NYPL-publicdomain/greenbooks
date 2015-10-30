@@ -12,8 +12,8 @@ TOURIST HOMES
 
 1.! SEDALIA
 
-i TOURIST HOMES
-9 Mrs. T. L. Moore—505 W. Cooper
+£3 TOURIST HOMES
+E Mrs. T. L. Moore—505 W. Cooper
 
 Mrs. C. Walker—217 E. Morgan
 W. Williamsj—317 E. Johnson
@@ -21,44 +21,46 @@ W. Williamsj—317 E. Johnson
 SPRINGFIELD
 
 i. TOURIST HOMES
-‘ U. G. Hardrick—238 Dollison Ave.
+E U. G. Hardrick—238 Dollison Ave.
 
 ST. JOSEPH
 
 1| TOURIST HOMES .
-i Mrs. T. J. Coleman—1713 Angelique St.
+E Mrs. T. J. Coleman—1713 Angelique St.
 
- ST. LOUIS
+ST. LOUIS
 l HOTELS
-- Midtown—2935 Lawton Boulevard
+|- Midtown—2935 Lawton Boulevard
 
 2" Booker Washington—Jefferson at Pine
-Pore—Pendleton & St. Ferdinand
+Poro—Pendleton & St. Ferdinand
 West End—3900 W. Beele St.
 
-Grand Central—Jefferson 81 Pine
+Grand Central—Jefferson & Pine
 Calumet—611 N. Jeﬁerson Ave.
 Corona—2840 Olive St.
 
 Harlem—3438 Franklin Ave.
- Antler—3502 Franklin Ave.
- Atlas—4260 Delmar ‘
 
-‘1: Leader—118 Pleasant St.
+E? Antler—3502 Franklin Ave.
+
+EE Atlas—4260 Delmar ‘
+
+E: Leader—118 Pleasant St.
 
 If RESTAURANTS
- BOB’S CAFE
+i BOB’S CAFE
 ' 2816 EASTON AVE.
 
 J
 
- Oak Leaf—4269 W. Easton Ave.
+‘ Oak Leaf—4269 W. Easton Ave.
 
- Society—900 N. Taylor Ave.-8
+E: Society—900 N. Taylor Ave.-8
 
 :3. DeLuxe—IO N. Jefferson Ave.
 
-3 Seashorr—2829 Easton Ave.
+E Seashoreh—2829 Easton Ave.
 Northside—2422 N. Pendleton Ave.
 
 Lindsey’s—3805 Page Blvd.
@@ -89,10 +91,10 @@ Allen’s—2343 Market St.
 Shaw’s—4356 Easton-l3
 Juvill—'4l4l Easton-l3
 Rosa’s—1222 Armstrong
-Artistitb-IOM N. Whittier
+Artisticb-IOM N. Whittier
 Young’s—2005 Pine St.
 Azalie’s—4621 Easton Ave.-l3
-Amanda’s—1021 N. Cardinal Ave.-6
+Amanda’s—1021 N. Cardinal Ave.—6
 Ollie’s—3803 Page Blvd.
 Boulevard—2736 Gamble St. .
 Parkway—4284 W. St. & Ferdinand-l3
@@ -130,7 +132,7 @@ Bullock’s—3320 Franklin Ave.
 0. K.—-1012 Sarah St.
 
 TAVERNS
-Silver Slipper—28l7 Easton Ave.
+Silver Slipper—28” Easton Ave.
 Glass Bar—2933 Lawton St.
 Rio—18 South-Jeﬁerson
 Carioca—1112% N. Sarah St.
@@ -140,7 +142,7 @@ Hawaiian—3839 Finney Ave.
 Play House—4071 Page Blvd.
 Casablanca—4111 Finney Ave.
 IVIanhattan—lllS N. Sarah
-Zanzibar-le N. Cardinal
+Zanzibar—215 N. Cardinal
 Pullman Club—2033, Market St.
 Roma—3839 Finney Ave.
 Casbah—26OS Cass Ave.

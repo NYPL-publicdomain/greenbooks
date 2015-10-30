@@ -9,11 +9,11 @@ HUDSON RIVER NEW YORK-NEW JERSEY
 Geo. Wash. Bridge: W. 179th St., N. Y. C. to Ft. Lee, N. J.—-Car & Pass. 500
 Lincoln Tunnel: Dyer Ave, N. Y. C. to Weehawken, N. J.——~Car & Pass. 500
 
-.Holland Tunnel: Canal St, N. Y. C. to Jersey City, N. J'.——Car & Pass. 506
+.Holland Tunnel: Canal St, N. Y. C. to Jersey City, N. J'.——Car & Pass. 5%
 
 DELAWARE RIVER NEW J ERSEY-PENNSYLVANIA
 
-Burlington, N. J.———Brist0'1, Pa. Bridge—Car & 5 Pass. 35c
+Burlington, N. J.——Bristo'l, Pa. Bridge—Car & 5 Pass. 35c
 Bridgeport, N. J.—~Chester, Pa. Ferry—Car & Driver 500, Pass. 5c
 Phillipsburg, N. J.——Easton, Pa. Bridge—Car & Pass. 10c
 
@@ -21,22 +21,22 @@ Camden, N. J.k~Phila, Pa. Bridge—Car & Pass. 20c
 
 Palmyra, N. J.—Phila., Pa. Bridge—Car & Pass. 300
 
+ 
+
 SUSQUEHANNA RIVER PENNSYLVANIA
-
 Harrisbm-g Lemoyne, Pa. Bridge—Car & Pass. 5c
-
 DELAWARE RIVER NEW JERSEY—DELAWARE
 
 Pennsville, N. J.——~New Castle, Diel. Ferry—Car & Driver 750 Pass. 10c
-Penns Grove, N. J.~—~Wi1mington, Del. Ferry—Car & Driver 750, Pass.
+Penns Grove, N. J.~—~Wilmington, Diel. Ferry—Car & Driver 750, Pass. 10c
 
 CHESAPEAKE BAY MARYLAND
 
-Anna‘DOlis, Md.-*Matapeake, Mid. Ferry—Car & Driver $1.50 & $2.00 one way
+Annapolis, Md.-*Matapeake, Mid. Ferry—Car & Driver $1.50 & $2.00 one way
 Pass. 500 one way, 85c rounl trip.
 
 SUSQUEHANNA RIVER MARYLAND
-Havre De Grace Bridge—Car 7 Passengens 200
+Havre De Grace Bridge—Car 7 Passengers 200
 
 POT‘OMAC RIVER MARYLAND-WEST VIRGINIA
 Williamsport, Md.—M‘artinsburg, W. Va. Bridge—Car & Pass. 15c
@@ -44,7 +44,7 @@ Williamsport, Md.—M‘artinsburg, W. Va. Bridge—Car & Pass. 15c
 CHESAPEAKE BAY VIRGINIA
 
 Cape Charles—Little Creek, Va. Ferry—Cars $2.50 & $3.00 depending on
-weight. Passengers 500 Time, 1 hr.
+weight. Passengers 500 Time 1 hr.
 & 45 min. Leave Cape Charles or
 Little Creek 7 A.M.
 
@@ -57,13 +57,13 @@ Norfolk Cars $1:.00 & $1.50 Pass. 250
 Old Point Comfort—Willoughby Split—~Norfolk——Via Ocean View Ferry—Car
 and Driver 750 & $1.00 Passengers 200
 
-NO‘I'fOIK—NeWDOIt News, Va. Ferry—Car & Driver 500 one way, 75c round trip
+Norfolk—Newport News, Va. Ferry—Car & Driver 500 one way, 75c round trip
 Passengers 150
 
 James River Bridge—Car & Driver 800 Passengers 20
 
 COOPER RIVER SOUTH CAROLINA
-Cooper River Bridge: Charleston, S. C., Car & Driver 500 Pass. 1'50 each.
+Cooper River Bridge: Charleston, S. C., Car & Driver 500 Pass. 150 each.
 
 BISCAYNE BAY FLORIDA
 
@@ -72,10 +72,6 @@ Miami—Miami Beach, Fla. Brid‘eg Car & Pass‘. 15c one way 25c round trip.
 CHARLOTTE HARBOR FLORIDA
 
 Boca Grande Island, Fla. Ferry: Car & Driver $5.00 Passengers 500 each.
-
- 
-
-10c
 
 (CONTINUED NEXT PAGE)
 

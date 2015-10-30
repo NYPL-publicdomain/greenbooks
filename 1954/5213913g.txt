@@ -10,7 +10,7 @@ HOTELS
 
 Green’s, 303 Hill St.
 
-TOURIST‘S HOMES
+TOURISTS HOMES
 C. W. Moore, 5th & Lincoln Ave.
 
 Dr. Dunning, 7th & Columbia Ave.
@@ -28,7 +28,7 @@ FORT SMITH
 HOTELS
 
 Ullery Inn, 719 N. 9th St.
-TOURIST‘S HOMES
+TOURISTS HOMES
 
 Mrs. Clara E. Oliver
 906 North 9th St.
@@ -117,7 +117,7 @@ Woods, 1523 High St.
 
 Woods, 16th & High St.
 
-Sue’s. 919 W. 9th St.
+Sue’s, 919 W. 9th St.
 
 Fontaine’s, 714 West 9th St.
 NIGHT CLUBS
@@ -180,7 +180,7 @@ TOURIST HOMES
 De LuX Court, 2720 E. Broadway
 RESTAURANTS
 Jim’s, 908 Cedar St. N. L. R.
-NOV—Vena, 1101 E. 6th St.
+Nov—Vena, 1101 E. 6th St.
 ROAD HOUSES
 Oasis, 1311 East 3rd St.
 

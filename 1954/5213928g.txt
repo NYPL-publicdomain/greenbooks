@@ -205,7 +205,7 @@ St.
 ATLANTA
 HOTELS
 
-Hotel Royal, 214 Auburn Ave., N. E.
+Hotel Royal, 214 Auburn Ave, N. E.
 
 Mack, 548 Bedford Place, N. E.
 
@@ -213,7 +213,7 @@ Shaw, 245 Auburn Ave., N. E.
 
 Y.M.C.A., 22 Butler St.
 
-'Waluhaje, 239 W. Lake Ave., N. W.
+'Waluhaje, 239 W. Lake Ave, N. W.
 
 Savoy, 239 Auburne Ave., N. E.
 TOURIST HOME
@@ -247,7 +247,7 @@ R. W. Woodard, 160 Elm St., S. W.
 
 Artistic, 55 Decatur
 
-Gate City, 240 Auburn Ave., N. W.
+Gate City, 240 Auburn Ave, N. W.
 
 Silver Moon, 202 Auburn Ave.
 NIGHT CLUBS
@@ -255,7 +255,7 @@ NIGHT CLUBS
 Posnciana, 1.43 Auburn Ave.
 SERVICE STATIONS
 
-Hall’s, 215 Auburn Ave., N. E.
+Hall’s, 215 Auburn Ave, N. E.
 GARAGES -
 
 South Side, 539 Fraser St., N. E.
@@ -378,7 +378,7 @@ Rose, 348 Price St.
 
      
 
-H1
+ll!
 
  
 

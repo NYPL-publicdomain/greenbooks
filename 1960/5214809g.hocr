@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./1960/5214809g.jpg"; bbox 0 0 3111 4102; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 2153 128">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 2153 128">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 2153 128; baseline 0 3974"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 2153 128; x_wconf 95' lang='eng' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 3650 404 4100">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 3650 404 4100">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 3650 404 4100; baseline 0 2"><span class='ocrx_word' id='word_1_2' title='bbox 0 3650 404 4100; x_wconf 95' lang='eng' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 397 330 2765 526">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 397 330 2765 526">
+     <span class='ocr_line' id='line_1_3' title="bbox 1277 330 1872 393; baseline -0.013 0"><span class='ocrx_word' id='word_1_3' title='bbox 1277 330 1872 393; x_wconf 78' lang='eng' dir='ltr'><strong>MEMORANDUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 397 449 2765 526; baseline -0.014 0"><span class='ocrx_word' id='word_1_4' title='bbox 397 481 593 526; x_wconf 80' lang='eng' dir='ltr'><strong>Please</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 625 476 869 523; x_wconf 86' lang='eng' dir='ltr'><strong>Mention</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 904 471 1059 518; x_wconf 84' lang='eng' dir='ltr'>“THE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1095 466 1315 516; x_wconf 85' lang='eng' dir='ltr'>GREEN</span> <span class='ocrx_word' id='word_1_8' title='bbox 1348 463 1564 512; x_wconf 90' lang='eng' dir='ltr'>BOOK&quot;</span> <span class='ocrx_word' id='word_1_9' title='bbox 1599 462 1774 508; x_wconf 89' lang='eng' dir='ltr'><strong>When</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1809 459 1924 506; x_wconf 90' lang='eng' dir='ltr'><strong>You</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1962 456 2238 504; x_wconf 82' lang='eng' dir='ltr'><strong>Patronize</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2278 454 2389 500; x_wconf 91' lang='eng' dir='ltr'><strong>Our</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2427 449 2765 497; x_wconf 83' lang='eng' dir='ltr'><strong>Advertisers</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2668 0 3108 106">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2668 0 3108 106">
+     <span class='ocr_line' id='line_1_5' title="bbox 2668 0 3108 106; baseline 0 3996"><span class='ocrx_word' id='word_1_14' title='bbox 2668 0 3108 106; x_wconf 95' lang='eng' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 2668 3692 3108 4100">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 2668 3692 3108 4100">
+     <span class='ocr_line' id='line_1_6' title="bbox 2668 3692 3108 4100; baseline 0 2"><span class='ocrx_word' id='word_1_15' title='bbox 2668 3692 3108 4100; x_wconf 95' lang='eng' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

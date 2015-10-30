@@ -10,7 +10,7 @@ ger trains in the world.
 Although they might escape the
 passenger’s attention, there are also
 many improvements in roadway and
-structures. Rails are heavier and
+structures. Rails .are heavier and
 stronger, and in combination with
 better ballasted roadbed give the foun—
 dation for smoother-riding passenger

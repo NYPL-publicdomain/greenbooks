@@ -11,12 +11,14 @@
   
  
   
- 
-  
- 
   
    
-    
+ 
+  
+  
+ 
+   
+   
  
  
  
@@ -44,7 +46,7 @@ u
 
   
 
-l it;  ' 630 London Street Portsmouth, Va.
+l it; ' 630 London Street Portsmouth, Va.
 
    
 
@@ -53,17 +55,17 @@ l it;  ' 630 London Street Portsmouth, Va.
  
 
 : PHOEBU-S
- Horton's Hotel.........._. ................................................... ..County (S Mellon Streets 
-a Horton's Restaurant .................................................. ..County (S Mellon Streets 
- RICHMOND
-‘ Eggleston Hotel .................................................................................. ..2nd 5. Leigh
-Harris Hotel .............  .............................................................. .200 E. Clay Street
-Slaughters Hotel .................................................................... .529 N. 2nd Street
-Y.W.C.A. ........................................................................................ ..Orange Avenue
+Horton's Hotel.......... ...................................................... County (S Mellon Streets 1
+a Horton's Restaurant .................................................... County (S Mellon Streets {
+RICHMOND
+‘ Eggleston Hotel .................................................................................... 2nd 5. Leigh
+Harris Hotel ............... . ................................................................ 200 E. Clay Street
+Slaughters Hotel ...................................................................... 529 N. 2nd Street
+Y.W.C.A. .......................................................................................... Orange Avenue
 MI 8-9874 Good Food and Thoughtful Service
 PERRY'S RESTAURANT
-‘ W 1 Home Cooked Food Our Specialty
- w , Steaks - Chops - Sea Food
+‘ ”J" 1 Home Cooked Food Our Specialty
+w , Steaks - Chops - Sea Food
 2 «1; ' 519 North 2nd Street Richmond. Va.
 
  
@@ -75,7 +77,7 @@ PERRY'S RESTAURANT
 “Where Eating Is A Pleasure”
 
 SKINNEY'S BAR-B-QUE
-Try Our Ribs and Chicken 
+Try Our Ribs and Chicken ,
 Fairmount Avenue at 25th Street Richmond. Va.
 
     

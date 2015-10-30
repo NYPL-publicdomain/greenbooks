@@ -16,7 +16,7 @@ LODGES
 
 Teresa’s, Rt. 1
 TOURIST HOMES
-Whip—or-Will Cottage,
+Whip—or-Will Cottage, Rt. No. 1,
 Box 178B
 
 NIGHT CLUBS
@@ -37,12 +37,12 @@ Enjoy the Country, Air, Swimming &
 Boating — Cottages by the Week
 or Month — Rooms, Modern
 Conveniences
+
 Get Good Food - How You Want It
 For Res., phone Baldwin 37F21
+
 Woodland Pk. Resort Biteley, Mich.
 Roscoe C. TERRY, Proprietor
-
-Rt. N0. 1,
 
 NEW BUFFALO
 
@@ -76,7 +76,7 @@ Dewey, 505 E'. Adams St.‘
 Davidson, 556 E. Forest Ave.
 Edenburgh, 758 Westchester Ave.
 Old Rivers, 2036 Hastings
-\Sportman’s, 37617 W. Warren Ave.
+\Sportman’s, 3767 W. Warren Ave.
 Carlton Plaza, John R at Edmund
 
 54
@@ -98,7 +98,7 @@ BEAUTY SCHOOLS
 
 Bee-Dew, 703 E. Forest Ave.
 
-Hair Health. 1332 Gratiot Ave.
+Hair Health, 1332 Gratiot Ave.
 BARBER SHOPS
 
 Swanson’s, 3415 Hastings St.
@@ -108,7 +108,7 @@ Arcade, Hastings & Napoleon
 Universal, 3129 Hastings St.
 TAVERNS
 
-Champion, Oakland & Holbronk
+Champion. Oakland & Holbronk
 
 Horseshoe. 606 Club
 
@@ -134,10 +134,10 @@ Johnson’s, McGraw & 25th St.
 
 Cobb’s, Maple & Ch‘ene Sts.
 
-Homer’s, 589 Madison Ave. ‘
+Homer’s, 589 Madison Ave. ,
 AUTOMOBILES
 
-Davis Motor Co.,
+Davis Motor Co., 421 E. Vernon
 
 Highway
 
@@ -154,7 +154,7 @@ Kay, 4766 McGraw Ave.
 
 FLINT
 TOURIST HOMES
-T. L. Wheeler, 1512 Liberty 
+T. L. Wheeler, 1512 Liberty St.
 Mrs. F. Taylor, 1615 Clifford St.
 
 GRAND JUNCTION
@@ -193,8 +193,6 @@ Bash Inn, B’Way at Hemlock
 Spizerinktom
 
 Rest Haven
-
-421 E. Vernon
 
  
 

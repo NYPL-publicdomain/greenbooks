@@ -37,7 +37,7 @@ Clyde Blackwells
 NORTHFIELD
 
 TOURIST HOMES
-Cole’s Tourist Home, 7' Sherman
+Cole’s Tourist Home, 7. Sherman
 
 Ave.
 RUTLAND
@@ -59,7 +59,7 @@ BEDFORD
 TOURIST HOMES
 Marinda Jones, R. F. D. No. 1,
 
-BOX 7A
+Box 7A
 BRISTOL
 TAVERNS
 Morocco, 800 Spencer St.
@@ -79,6 +79,7 @@ CHARLOTTESVILLE
 
 HOTELS
 Carver Inn, 701 Preston Ave.
+
 Paramount, West Main St.
 
  
@@ -90,52 +91,49 @@ Paramount, West Main St.
  
    
    
- 
- 
-  
-  
+   
+   
+     
+    
+      
+    
+     
+    
+     
+     
+    
+   
+    
+      
+   
+    
+     
+      
+      
+    
+    
+     
+    
+    
+     
+     
+    
+    
+    
+    
+     
+    
+    
        
- 
       
-    
-   
-    
-     
-     
-    
-   
-     
       
      
-   
     
-     
+   
+   
       
-    
-    
-     
-     
-     
-     
-     
-    
-    
-    
-    
-     
-   
-     
-   
-   
-     
-     
-      
-   
-   
-   
-    
 
-Please Mention the "Green Book”
+Please Mention the "Green Boo/e”
 
  
 
@@ -152,7 +150,7 @@ Eureka
 
 COVINGTON
 TOURIST HOMES
-Mrs. Loretta  Watson, 219
+Mrs. Loretta S. Watson, 219
 Lexington St.
 RESTAURANTS
 Silver Star, 208 So. Maple Ave.
@@ -170,10 +168,10 @@ DANVILLE
 TOURIST HOMES
 Mrs. P. M. Logan, 328 No. Main St.
 
-Yancey’s, 320 Holbrook S’t. .
-Mrs. M. K. Page, 434 Holbrook St.
-Mrs. S. A. Overby, Holbrook St.
+Yancey’s, 320 Holbrook St.
 
+Mrs. M. K. Page 434 Holbrook St.
+Mrs. S. A. Overby, Holbrook St.
 Mrs. Mary L. Wilson, 401 Hlolbrook
 
 RESTAURANTS
@@ -199,7 +197,7 @@ FREDERICKSBURG‘
 HOTELS
 McGuire, 521 Princess Anne St.
 
-Rappahannock, 520 Princess S't.
+Rappahannock, 520 Princess St.
 
 RESTAURANTS
 Taylor’s, 505 Princess Anne St.
@@ -228,9 +226,8 @@ TAXI CAB
 Abraham’s Taxi Service
 
 TOI‘I
-
 T115
 RES]
-W3.
+
 TAV]
 

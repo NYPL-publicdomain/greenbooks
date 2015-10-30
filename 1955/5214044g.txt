@@ -43,7 +43,7 @@ Manse, 1004 Chapel St.
 TOURIST HOMES
 0. Steele, 3065 Kerper St.
 Ethel Buckner, 505 W. 8th St.
-RESTAURANTS r
+RESTAURANTS ,
 Mom’s, 6th & John Sts.
 Perkins, 430 W. 5th.St.
 Loc-Fre, 1634 Freeman St.

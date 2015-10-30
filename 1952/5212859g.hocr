@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./1952/5212859g.jpg"; bbox 0 0 2915 3934; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 155 3166 752 3604">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 156 3166 711 3244">
+     <span class='ocr_line' id='line_1_1' title="bbox 156 3166 711 3244; baseline 0.005 -21"><span class='ocrx_word' id='word_1_1' title='bbox 156 3240 157 3244; x_wconf 12' lang='eng'>‘</span> <span class='ocrx_word' id='word_1_2' title='bbox 261 3166 474 3240; x_wconf 81' lang='eng' dir='ltr'>Carry</span> <span class='ocrx_word' id='word_1_3' title='bbox 524 3167 711 3228; x_wconf 79' lang='eng' dir='ltr'><strong>Your</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 155 3259 752 3322">
+     <span class='ocr_line' id='line_1_2' title="bbox 155 3259 752 3322; baseline 0.007 -4"><span class='ocrx_word' id='word_1_4' title='bbox 155 3262 157 3265; x_wconf 44' lang='eng'>&#39;</span> <span class='ocrx_word' id='word_1_5' title='bbox 216 3259 473 3320; x_wconf 84' lang='eng' dir='ltr'>Green</span> <span class='ocrx_word' id='word_1_6' title='bbox 532 3259 752 3322; x_wconf 89' lang='eng' dir='ltr'>Book</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 199 3354 710 3604">
+     <span class='ocr_line' id='line_1_3' title="bbox 199 3354 710 3416; baseline 0.006 -3"><span class='ocrx_word' id='word_1_7' title='bbox 199 3357 203 3360; x_wconf 35' lang='eng'><strong>‘</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 255 3354 476 3414; x_wconf 90' lang='eng' dir='ltr'>With</span> <span class='ocrx_word' id='word_1_9' title='bbox 542 3355 710 3416; x_wconf 89' lang='eng' dir='ltr'>You</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 299 3448 666 3524; baseline 0.003 -17"><span class='ocrx_word' id='word_1_10' title='bbox 299 3448 450 3508; x_wconf 89' lang='eng' dir='ltr'>You</span> <span class='ocrx_word' id='word_1_11' title='bbox 501 3450 666 3524; x_wconf 83' lang='eng' dir='ltr'>May</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 324 3540 643 3604; baseline 0.013 -4"><span class='ocrx_word' id='word_1_12' title='bbox 324 3540 519 3602; x_wconf 91' lang='eng' dir='ltr'>Need</span> <span class='ocrx_word' id='word_1_13' title='bbox 570 3544 643 3604; x_wconf 88' lang='eng' dir='ltr'>it.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2915 3934">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2915 3934">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2915 3934; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 2915 3934; x_wconf 95' lang='eng' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

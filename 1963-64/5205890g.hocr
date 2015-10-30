@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./1963-64/5205890g.jpg"; bbox 0 0 3102 4057; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 971 1088 2254 1554">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 971 1088 2254 1615">
+     <span class='ocr_line' id='line_1_1' title="bbox 1029 1088 2254 1264; baseline 0.007 -39"><span class='ocrx_word' id='word_1_1' title='bbox 1029 1088 1769 1264; x_wconf 84' lang='eng' dir='ltr'><strong>Schomburg</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1809 1102 2254 1234; x_wconf 75' lang='eng' dir='ltr'>Center</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 971 1249 1840 1391; baseline 0.009 -8"><span class='ocrx_word' id='word_1_3' title='bbox 971 1350 976 1353; x_wconf 76' lang='eng'><strong><em>-</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1023 1249 1216 1385; x_wconf 80' lang='eng' dir='ltr'>for</span> <span class='ocrx_word' id='word_1_5' title='bbox 1266 1256 1840 1391; x_wconf 80' lang='eng' dir='ltr'><strong>Research</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1029 1412 2032 1554; baseline 0.015 -14"><span class='ocrx_word' id='word_1_6' title='bbox 1029 1423 1127 1541; x_wconf 89' lang='eng' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 1173 1412 1516 1546; x_wconf 82' lang='eng' dir='ltr'>Black</span> <span class='ocrx_word' id='word_1_8' title='bbox 1552 1417 2032 1554; x_wconf 75' lang='eng' dir='ltr'><strong>Culture</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1233 1723 1497 1984">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1233 1723 1497 1984">
+     <span class='ocr_line' id='line_1_4' title="bbox 1233 1723 1497 1984; baseline 0.008 -1"><span class='ocrx_word' id='word_1_9' title='bbox 1233 1723 1497 1984; x_wconf 77' lang='eng'>’/</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1748 2625 1998 2867">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1748 2625 1998 2867">
+     <span class='ocr_line' id='line_1_5' title="bbox 1748 2625 1998 2867; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 1748 2625 1998 2867; x_wconf 63' lang='eng' dir='ltr'>I!</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1096 3034 2097 3120">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1096 3034 2097 3120">
+     <span class='ocr_line' id='line_1_6' title="bbox 1096 3034 2097 3120; baseline 0.011 -26"><span class='ocrx_word' id='word_1_11' title='bbox 1096 3034 1220 3096; x_wconf 78' lang='eng' dir='ltr'>The</span> <span class='ocrx_word' id='word_1_12' title='bbox 1247 3039 1416 3097; x_wconf 86' lang='eng' dir='ltr'>New</span> <span class='ocrx_word' id='word_1_13' title='bbox 1430 3038 1581 3099; x_wconf 80' lang='eng' dir='ltr'><strong>York</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1607 3040 1823 3102; x_wconf 84' lang='eng' dir='ltr'><strong>Public</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1848 3041 2097 3120; x_wconf 81' lang='eng' dir='ltr'>library</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 3101 4052">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 3101 4052">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 3101 4052; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 3101 4052; x_wconf 95' lang='eng' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

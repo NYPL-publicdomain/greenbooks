@@ -184,7 +184,7 @@ HOTELS
 
 People’s, 316 N. 2nd St.
 
-Elliots, 111% So. 2nd St.
+Elliots, 111% SO. 2nd St.
 RESTAURANTS
 
 People’s, 316 N. 2nd St.
@@ -233,7 +233,7 @@ TOURIST HOMES
 
 Scrugg’s, 420 N. Laird St.
 
-Cortland Ems, 629 N. E. 4th St.
+Cortland Rms., 629 N. E. 4th St.
 
 Tucker’s, 315% N. E. 2nd St.
 
@@ -260,7 +260,7 @@ Mathues, 1023 N. E. 4th St.
 DRUG STORES
 Randolph, 331 N. E. 2nd St.
 
-OKMULG‘EE
+OKMULGEE
 RESTAURANTS
 
 - Simmons, 407 E. 5th St.

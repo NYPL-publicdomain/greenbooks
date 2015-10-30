@@ -60,7 +60,7 @@
    
  
 
-‘4 -‘ -M‘  “it; “a... .._,‘ “3.15%... A
+‘4 -‘ -M‘ g... “it; .4..,;‘<§ .._,‘ “3.15%., A
 
     
    
@@ -70,7 +70,7 @@
 
  
 
-Please Mention the "Green Boo/z”
+Please Mention the "Green Boo/2”
 
  
 
@@ -96,14 +96,14 @@ Johnson’s Hotel, 1505 13th St. N. W.
 
 Whitelaw, 13th & “T” Sts. N. W.
 
-Johnson, Jr., 1509 Vermont Ave.,
+Johnson, Jr., 1509 Vermont Ave,
 N. W.
 
 Dunbar, U St. & 15th St., N. W.
 
 Y.M.C.A., 1816 12th St., N. W.
 
-Y.W.C.A., 901 Rhode Is. Ave., N. W.
+Y.W.C.A., 901 Rhode Is. Ave, N. W.
 
 Logan, 13th & Logan Circle N. W.
 
@@ -111,7 +111,7 @@ C‘lore, 614 ‘S’ St. N. W.
 
 Cadillac, 1500 Vermont St. N. W.
 
-Ken Rod, 621 Rhode Island Ave.,
+Ken Rod, 621 Rhode Island Ave,
 N. W.
 
 Charles, 1334 ‘R’ St. .N. W.
@@ -120,14 +120,14 @@ TOURIST HOMES
 Jannie’s, 939 Rhode Is. Ave. N. W.
 Buddie’s, 1320 5th St. N. W.
 Towles, 1321 13th St. N. W.
-Towles, 1342 Vermont Ave., N. W.
+Towles, 1342 Vermont Ave, N. W.
 Modern, 3006 13th St., N. W. ,
 Rivers, 1021 Monroe St., N. W.
 Patsy’s, 2026 13th St., N. W.
-Cottage Grove, 1531 Vermont Ave.,
+Cottage Grove, 1531 Vermont Ave,
 
 N. W.
-Terry’s, 939 Rhode Is. Ave., N. W.
+Terry’s, 939 Rhode Is. Ave, N. W.
 Boyd’s, 1744 Swann St., N. W.
 
 Edward’s, 1837 16th St., N. W.
@@ -138,7 +138,7 @@ Grand Casa Blanca, 3413 Georgia
 Ave. N. W.
 New Hollywood, 1940 9th St. N. W.
 Holleywood, 1940 9th St., N. W.
-Harrison’s Cafe, 455 Florida Ave.,
+Harrison’s Cafe, 455 Florida Ave,
 N. W.
 Off Beat, 1849 7th St., N. W.
 Kenyon, Ga. Ave. & Kenyon St.,
@@ -158,14 +158,14 @@ N. W.
 
 Earl’s, 1218 U. St., N. W.
 
-Sugar Bowl, 2830 Georgia Ave.,
+Sugar Bowl, 2830 Georgia Ave,
 N. W.
-Shrimp Hut, 807 Florida Ave., N. w.
+Shrimp Hut, 807 Florida Ave, N. w.
 Uptown, 807 Florida, N. W.
 John-son’s, 1909 14th St., N. W.
 The Hour, 1937 11th St., N. W.
-Cozy, 708 Florida Ave., N. W.
-Kenyon Grill, 3119 Georgia Ave.,
+Cozy, 708 Florida Ave, N. W.
+Kenyon Grill, 3119 Georgia Ave,
 
 N. W.
 The Hour, 1837 11th St., N. W.
@@ -174,11 +174,11 @@ LIQUOR STORES
 Peoples, 719 11th St., N. W.
 S & W, 1428 9th St., N. W.
 Shuster’s, 101 H St., N. W.
-Ney’s, 1013 Penna. Ave., N. W.
+Ney’s, 1013 Penna. Ave, N. W.
 Carter’s, 1927 14th St., N. W.
 
 BARBER SHOPS
-Florida, 1803 Florida Ave., N. W.
+Florida, 1803 Florida Ave, N. W.
 Blue Bird, 3219 Georgia Ave. N. W.
 Harpers, 703 Park Rd.
 York, 3634 Georgia Ave. N. W.
@@ -189,7 +189,7 @@ A1, Lenes 3551 Georgia Ave. N. W.
 Henretta’s, 3616 Georgia Ave. N. W.
 Apex, 1417 ‘U’ St., N. W.
 The Royal, 1800 ‘T’ St., N. W.
-Elite, 1806 Florida Ave., N. W.
+Elite, 1806 Florida Ave, N. W.
 Lil’s, 1416 9th St., N. W.
 Green’s, 1825 18th St., N. W.
 Bandbox, 2036 18th St., N. W.
@@ -198,15 +198,15 @@ La Salle, 541 Florida Ave, N. W.
 NIGHT CLUBS
 Republic Gardens, 1355 U St., N. W.
 Club Bali, 1901 14th St., N. W.
-Club Caverns, 11th & U St., N. W.
+Club Caverns, 11th & U St., N. W‘.
 Ebony, Cor. 7th & ‘S" Sts. N. W.
 
 SERVICE STATIONS
-Brown’s, 3128 Ga. Ave., N. W.
-Engelberg, 1783 Florida Ave., N. W.
+Brown’s, 3128 Ga. Ave, N. W.
+Engelberg, 1783 Florida Ave, N. W.
 
 TAILORS
-W. R. Reynolds, 1808 Florida Ave.,
+W. R. Reynolds, 1808 Florida Ave,
 N. W.
 
 FLORIDA
@@ -219,7 +219,7 @@ Hank’s, 531 S. Campbell St.
 DELRAY BEACH
 
 TAVERNS
-Manfield, N. W. 181: St.
+Manﬁeld, N. W. 181: St.
 
 FORT LAUDERDALE
 
@@ -236,7 +236,7 @@ Hill, 430 N. W. 7th Ave.
 
  
 
-A...
+.....
 
  
 
@@ -244,15 +244,15 @@ HEW
 Hills
 1'; HI
 
-Hon
+Hm
 
 in,
-n,»
+In»
 
-BElI
-mi
+an
+m
 
-N:
+m
 
   
 

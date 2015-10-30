@@ -6,7 +6,7 @@ Magnolia Inn—629 E. 4th
 William Rooms—323 E. 2nd St.
 
 TAVERN
-Lyons Cafe—304  2nd St.
+Lyons Cafe—304 E 2nd St.
 
 BEAUTY PARLORS
 Chambers—6231 N. Kelly St.
@@ -15,7 +15,7 @@ AUTOMOTIVES
 Deep Rock Oil Corp—40 E. 2nd St.
 
 THEATERS
-BreauX—an & Central
+Breaux—an & Central
 
 OKMULGEE
 
@@ -35,17 +35,17 @@ TULSIX
 HOTELS
 Small—615 E. Archer St.
 Lincoln—E. Archer St.
-Red VVing‘—206 N. Greenwood
+Red VVing—206 N. Greenwood
 Royal—605 E. Asher St.
 Manard—922 E. M‘ashill F1.
-McHunt—1121 N. Grenwood Ave.
+McHunt—1121 N. Grenwo‘od Ave.
 
 TOURIST HOMES
 
-Mrs. R. C. Baughrnan—
+Mrs. R. C. Baughman—
 320 N. Greenwood
 
-Mrs. W. H. Smith—
+Mrs. W. H. Smith—-
 124% N. Greenwood
 
 Mrs. Thomas Gentry——
@@ -63,7 +63,7 @@ Barbequen—
 
 BEAUTY PARLORS
 Mrs. Smiths—524 E. Jasper
-Cotton Bossiorn—
+Cotton Bossorn—
 106 N. Greenwood Ave.
 Mrs. J. C. Mays’—
 523 N. Greenwood Ave.
@@ -77,11 +77,11 @@ Del Rio Bar——
 SERVICE STATIONS
 Mince—2nd & Elgin Sts.
 
-Pine St.——906 E. Pine St.
+Pine {St—4306 E. Pine St.
 L & M-—617 E. Cameron St.
 DRU’GSTORE
 Vaughn—4501 E. 2nd St.
-Meh..:'ry Drugs—~
+Meh..qrry Drugs—~
 101 Greenwood Ave.
 
 \VEVV ORA
@@ -124,14 +124,14 @@ COATESVILLE
 HOTELS
 Subway
 
-CHAMBERSBURG I
+CHAMBERSBURG ,
 
 HOTELS
 Liberty Inn, Liberty & Water St.
 
 TOURIST HOMES
 Mrs. H. Pinns, 68 W. Liberty St.
-Mrs. C. Stevenson, 619 S. Main St. 1
+Mrs. C. Stevenson, 619 S. Main St. .
 
 CHESTER
 

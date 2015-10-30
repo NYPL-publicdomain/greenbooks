@@ -11,7 +11,7 @@ Prospect, 18th & Prospect
 Truman Rd., 2133 Truman Rd.
 TAILORS
 Spotless, 2303 Prospect Ave.
-Courtney, 1715 Brooklyn Ave..
+Courtney, 1715 Brooklyn Ave.
 
 KIMLOCK
 BEAUTY PARLORS
@@ -35,7 +35,7 @@ HOTELS
 Once Our Guest - Always Our Guest”
 
 BOOKER WASHINGTON
-Hotel €9~ Courts
+Hotel (a Courts
 
 Private Baths - Air Conditioned
 Connected Garage - Radios &
@@ -106,7 +106,7 @@ Hawaiian, 3839 Finney Ave.
 Play House, 4071 Page Blvd.
 Pullman Club, 4571 Newberger Ter.
 Roma, 3839 Finney Ave.
-Casbah', 2605 Cass Ave.
+Casbah‘, 2605 Cass Ave.
 Duck’s, 4384 St. Louis Ave.
 Atlas, 4267 Delmar
 Bob’s, 5057 St. Louis Ave.
@@ -121,7 +121,7 @@ Midville, 1913 Pendleton Ave.
 Anderson’s, 930 N. Compton
 B‘rame’s, 4324A Evans
 GARAGES
-Garﬁeld, 4247 Garfield
+Garﬁeld, 4247 Garﬁeld
 TAILORS
 Jackson’s, 4501 W. Easton Ave.
 Orchard, 4480 Easton Ave.

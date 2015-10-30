@@ -1,6 +1,6 @@
 (in. Patrom’zing These Places
 
-‘ CHARLESTON
+. CHARLESTON
 HOTELS
 
 James, 238 Spring St.
@@ -61,12 +61,12 @@ College Inn, 1609 Harden St.
 Mrs. S. H. Smith, 929 Pine St.
 
 Mrs. H. Cornwell, 1713 Wayne
-*Mrs. W. D. Chapipelle, 1301 Pine St.
+*Mrs. W. D. Chaprpelle, 1301 Pine St.
 
 Beachum, 2212 Gervais St.
 
 Mrs. J. P. Wakeﬁeld 816 Oak St.
-RESTAURANTS 
+RESTAURANTS
 
 Green Leaf, 1117 Wash. St.
 
@@ -124,7 +124,7 @@ Your Home—Away from Home
 712 NO. WILSON ST.
 Florence, S. C.
 
-Richmond, 108 S‘. Grifﬁn St.
+Richmond, 108 S. Grifﬁn St.
 John McDonald, 501 So. Irby St.
 Mrs. B. Wright, 1004 E. Cheeve St.
 

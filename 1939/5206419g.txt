@@ -5,12 +5,12 @@ USE
 JUNCTION CITY
 
 HOTELS
-Bridgeforth »»»» --311 E. 11th St.
+Bridgeforth ------ 311 E. 11th St.
 Mrs. John Caro——
-Cattery—1120 N. Wrashington St.
+Cattery—1120 N. IVashington St.
 
 LARNED
-TOURIST HOMI 
+TOURIST HOMI S-
 
 Mrs. C. M. Madison—828 W. 12 St.
 Mrs. Mose Madison—4518 W. 10 St.
@@ -22,7 +22,7 @@ LEAVENWORTH
 
 TOURIST HOMES
 Mrs. W. Shelton—223 Linn. St.
-Mrs. J. Hamiton—720  3rd St.
+Mrs. J. Hamiton—720 N. 3rd St.
 W. D. Stewart—~809 N. 4th St.
 
 MANHATTAN
@@ -51,7 +51,7 @@ HOTELS
 
 Dunbar—400 Quincy St.
 Ran—son—ian Mansion——
-224.7 Topeka Blvd.
+2247 Topeka Blvd.
 
 TOURIST HOBIES
 
@@ -80,7 +80,7 @@ IT AS YOUR
 
 _____--. M
 
-19
+I?!
 
 IDENTIFICATION
 
@@ -90,9 +90,9 @@ HOTELS
 Preston——
 
 TOURIST HOMES
-Mrs. Burbridge———430 Lewivst St.
+Mrs. Burbridge———430 Lewis St.
 Mrs. G. Greer—18 E. Back St.
-Mrs. S. Mure11——243 Race St.
+Mrs. S. Murell——243 Race St.
 Miss E. Trigg—SZO S. Lewis St.
 Walter Tinsley—428 Lewis St.
 William Howard—412 Lewis St.
@@ -108,13 +108,13 @@ HOPKINSVILLE
 TOURIST HOMES
 Mrs. Ann Boyd—302 E. First St.
 Mrs. M. McGregor—ZOO E. First St.
-L. McNary‘IIS Liberty St.
+L. McNary‘l13 Liberty St.
 Dr. J. C. Hopkins—
 128 Liberty St.
 
 LOUISVILLE
 HOTELS
-Allen—-2516 1V. Madison St.
+Allen—-2516 TV. Madison St.
 Pythian Temple——
 10th & Chestnut Sts.
 
@@ -146,7 +146,7 @@ TOURIST HOMES
 Mrs. E. Butler—133 E. Locust St.
 
 Mrs. G. VVhite——131 E. Locust St.
-Mrs. G. Grubb‘s—15‘62 E. High St.
+Mrs. G. Grubbs—15‘62 E. High St.
 
 HOTELS
 Dew Drop Inn—E. Locust St.

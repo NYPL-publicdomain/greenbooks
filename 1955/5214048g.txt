@@ -14,7 +14,7 @@ CHESTER
 HOTELS
 
 Harlem, 1909 W. 3rd St.
-Moonglovv, 225 Market St.
+Moonglow, 225 Market St.
 
 BEAUTY PARLORS
 
@@ -97,7 +97,7 @@ Sts.
 Essex House, 13th & Fillbert Sts.
 West End, 420 N. 40th St.
 Horseshoe, 12th & Lombard St.
-Travelers, 316 SO. Broad St.
+Travelers, 316 So. Broad St.
 Jung, 529 So. Broad St.
 Bea’s, 1857 So. 17th St.
 Chesterﬁeld, Broad & Oxford Sts.
@@ -109,7 +109,7 @@ Douglas, Broad & Lombard Sts.
 Elrae, 805 N. 13th St.
 LaSalle, 2026 Ridge Ave.
 New Roadside, 514 S. 15th St.
-Paradise, 1627 Fitzvvater St.
+Paradise, 1627 Fitzwater St.
 
 _ Y.M.C.A., 1724 Christian St.
 Y.W.C.A., 1605 Catherine St.
@@ -138,7 +138,7 @@ Ruth’s, 1848 N. 17th St.
 
 BEAUTY PARLORS
 A. Henson, 1318 Fairmont Ave.
-LaSalle, 2036 Ridge St.
+LaS‘alle, 2036 Ridge St.
 Lady Rross, 718 S. 18th St.
 Rose’s, 16th & South St.
 F. Franklin, 2115 W. York St.

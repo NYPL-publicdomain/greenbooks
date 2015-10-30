@@ -5,7 +5,7 @@ OHIO
    
  
 
-i
+l
 
 V COLUMBUS
 
@@ -24,7 +24,7 @@ Newford—4521/2 E. Long St.
 
 TOURIST HOMES
 Hawkins—70 N. Monroe Ave.
-Mrs. J. Smith—16 I 48th St.
+Mrs. J. Smith—16 . 48th St.
 Mae’s—70 N. Monroe Ave.
 Norfolk——43O N. Monroe Ave.
 Cooper—259 N. 17th St.
@@ -104,7 +104,7 @@ Poorer’s.Shio—1200 W. I5th St.
 
 LIMA
 
-MTOURIST HOMES
+”TOURIST HOMES
 Sol Downton—1124 W. Spring St.
 Edward Holt—406 E. High St.
 George Cook—230 S. Union St.
@@ -154,7 +154,7 @@ Oberlin Inn—College 8: Main
 SPRINGFIELD
 
 HOTELS
-Pusey—209 S. Fountain Ave.
+Posey—209 S. Fountain Ave.
 Y. M. C. A.—Center St.
 Y. W. C. A.-Clarke St.
 

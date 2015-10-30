@@ -1,4 +1,4 @@
-m Patrom‘zz’ng These Places
+int Patrom‘zz’ng These Places
 
 TAXI CABS
 Blue Jay, 2811 Easton Ave.
@@ -12,7 +12,7 @@ Ream’s, 1319 N. Grand
 
 RICHMOND
 TOURIST HOMES
-Harrison, 130 S0. Hill St.
+Harrison, 130 So. Hill St.
 
 SPRINGFIELD
 HOTELS
@@ -133,7 +133,7 @@ Capitol Tavern,
 
 1212 Springwood Ave.
 Aztex Room, 1147 Springwood Ave.
-Hollywood, 1318 Springwood Ave.
+Hollywood, 1318 Sipringwood Ave.
 2—Door, 1512 Springwood Ave.
 Palm Garden, Springwood & Myrtle
 Aves.

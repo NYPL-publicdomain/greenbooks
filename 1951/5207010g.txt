@@ -1,5 +1,5 @@
 PLEASE MENTION THE "GREEN BOOK”
-//
+#W
 
 LITTLE ROCK
 
@@ -9,27 +9,21 @@ HOTEL CHARMAINE
 820 WEST 14TH ST.
 
 The Marquette—522 W. 9th St.
-
 Graysonia—809 Gaines St.
 
 New Vincent—522% West 9th St.
-
 Tucker’s—701% W. 9th St.
 Honeycutt—816 West 9th St.
 
-TOURIST HOMES
-
-Mn. T. Thomas—1901 High! St.
-
-Lafayette—904 State Street
+TOURIST HONIES
+Mn. T. Thomas—1901 High St.
+Lafayette—904 State Street "
 
 RESTAURANTS
 Lafayette—904 State St.
 College—16th & Bishop
 Iohnson’e—élO W. 9th St.
-
 Brown Bomber—900 Chester St.
-
 DeLuxe—724 W. 9th St.
 Tucker’s—919 Victory St.
 Fawn—516 West 9th St.
@@ -64,7 +58,7 @@ TAVERNS
 Majestir—708 W. 9th St.
 
 LIQUOR STORES
-Ritz—1511 Wright Ave.
+Ritz—1511 anht Ave.
 Jones—528 W. 9th St.
 Victory—528 West 9th St.
 
@@ -74,7 +68,6 @@ Lee’s—1401 High St.
 TAILORS
 
 Metropolitan—618 West 9th St.
-
 Miller—916 Gaines St.
 Crenshaw—709 W. 9th St.
 Metropolitan—618 W. 9th St.

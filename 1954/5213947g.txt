@@ -32,7 +32,7 @@ PLEASANTVILLE
 
 TOURIST HOMES
 
-Marionette Cot. 604 Portland. Ave.
+Marionette Got. 604 Portland. Ave.
 
 Virginia Inn, 1505 S. New Rd.’
 
@@ -53,7 +53,7 @@ RESTAURANTS
 Vincents, 263
 TAVERNS
 
-. West Bergen. 103 W. Bergen Place
+, West Bergen. 103 W. Bergen Place
 BARBER SHOPS
 
 A. Dillard, 250 Shrewsbury Ave.
@@ -95,7 +95,7 @@ Shrewsbury Ave.
 SEA BRIGHT
 
 RESTAURANTS
-' Castle Inn,‘11 New.'St.
+' Castle Inn,‘11 NeWJSt.
 
 SEWAREN
 TAILORS
@@ -108,7 +108,7 @@ Rodney’s, Shrewsbury Ave.
 
 SUMMIT
 
-n o
+n r)
 0.0
 
 HOTELS ,
@@ -162,7 +162,7 @@ BEAUTY PARLORS
 B. Johnson’s, 407 Garﬁeld Ave.
 BARBEH SHOPS
 
-R. Morton, 4010 New Jersey Ave.
+R. Morton. 4010 New Jersey Ave.
 NIGHT CLUBS
 
 High Steppers, 437 Lincoln Ave.

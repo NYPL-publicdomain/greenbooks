@@ -30,7 +30,7 @@ La Nobita—1807 Belmont Pl.
 TULARE
 
 TOURIST HOMES
-South "K" St.——330 South "K" St.
+South "K" St.——330 South “K" St.
 
 TAVERNS
 King’s—-322-24 South K St.
@@ -58,8 +58,8 @@ HOTELS
 Hildreth—Z 1 52 Arapahoe Street
 
 TOURIST HOMES
-Mrs. G. Anderson—le9 Marion St.
-R. B. Anderson—Z421 Ogden St.
+Mrs. G. Anderson—2119 Marion St.
+R. B. Anderson—2421 Ogden St.
 Mrs. A. S. Fisher—235% High St.
 Mrs. Hattie Givens—3052 Humbolt
 
@@ -75,7 +75,7 @@ Da-Nite—l430 22nd Avenue
 B & E—2847 Gilpin St.
 
 Dew Drop Inn—27 15 Welton St.
-Nu Way—1025 let St.
+Nu Way—1025 21st St.
 
 Sugar Bowl—2832 Welton Street
 Down Beat—609 - 27 Street
@@ -97,7 +97,7 @@ TAVERNS
 Rossonian Lounge—2650 Welton Street
 
 Arcade—739 E. 26th Avenue
-Archie’e—2449 Larimer St.
+Archie’s—2449 Larimer St.
 
 LIQUOR STORES
 Lincoln—2636 Welton St.
@@ -108,13 +108,13 @@ Aristocrat—3101 William St.
 SERVICE STATIONS
 Da-Nite—728 E. 26th Avenue
 White—2655 Downing St.
-Plazer—E. 22nd 8: Humboldt Ste.
+Plazer—E. 22nd 8: Humboldt Sts.
 
 TAXI CABS
 Ritz—2721 Welton St.
 
 DRUG STORES
-T. K.—-27th and Larimer Ste.
+T. K.-27th and Larimet Sts.
 Ideal-—-28th & Downing
 V. H. Meyers—22nd & Downing Sts.
 Radio—Welton at 26th St.
@@ -128,7 +128,7 @@ White House—2863 Welton St.
 B & 8—1710 E. 25th Avenue
 Ace-2220 Downing St.
 
-TOURIST HOMES A
+TOURIST HOMES .
 Mrs. Hattie Graves—3052 Humboldt Stﬁ
 
 GREENLEY
@@ -157,7 +157,7 @@ MONTROSE
 HOTELS '
 Adams
 
-TOURIST HOBIES
+TOURIST HOlSIES
 Davis Auto Court
 
 RESTAURANTS

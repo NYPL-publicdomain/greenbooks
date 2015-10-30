@@ -5,7 +5,7 @@
  
 
 : ST VlR. WIS.
-' OMING
+. OMING
 
 I‘N PATRONIZING THESE PLACES CANADA
 WHITE SULPHUR SPRINGS
@@ -38,17 +38,17 @@ V. Williams—97 S. Seymour St.
 OSHKOSH
 
 OURIST HOMES
-F. Pemberton—239 Liberty St.
+F. Pcmberton—239 Liberty St.
 
  
 
-_T
+~T
 
 WYOMING
 
 CASPER
 
-/ TOURIST HOMES
+, TOURIST HOMES
 V Mrs. David J. Rudd—646 East “A” St.
 Mrs. Blane Williams—739 N. Center St.
 
@@ -74,7 +74,7 @@ TOURIST HOMES
 FAIRBANKS
 
 . HOTELS
-A - Savoy
+. - Savoy
 
   
 
@@ -90,7 +90,7 @@ LIQUOR STORE
 Packwood'o—Walter St.
 
 BICYCLES
-Dowling's Cycle Livery—York St. . 5:,
+Dowling's Cycle Livery—York St. . a,
 
    
   
@@ -129,8 +129,8 @@ PENBROKE
 HOTELS
 Richmond House—Richmond Road
 
-TOURIST HOMES 
-Milestone—~Coxs Hill 
+TOURIST HOMES
+Milestone—~Coxs Hill
 
   
     
@@ -199,8 +199,8 @@ Paradise—1252 St. Antoine Street
   
  
 
-HARROW (Ontario) I *;
-TOURIST HOMES ‘ 
+HARROW (Ontario) . *;
+TOURIST HOMES ‘
 
 William Tourist Home
 

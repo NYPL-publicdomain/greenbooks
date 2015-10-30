@@ -37,9 +37,7 @@ RESTAURANTS
 Bell’s Cafe—325 Morley Ave.
 
 PHOENIX
-
-HOTELS ,
-
+HOTELS
 WINSTON INN
 1342 EAST JEFFERSON
 
@@ -49,13 +47,13 @@ SWINDALL’S TOURIST HOME
 1021 E. WASHINGTON
 
 Mrs. L. Stewart—1134 E. Jefferson
-Gardener’a—-—1229 E. Washington St.
+Gardener’s—4229 E. Washington St.
 
 RESTAURANTS
 JEFFERSON DINNETTE
 
 1303 E. JEFFERSON
-Alhambia—lZ46-48 E. Washington St.
+Alhambia—1246-48 E. Washington St.
 
 BEAUTY PARLORS
 
@@ -65,11 +63,11 @@ C. Jackson—1238 E. Madison St.
 
 BARBER SHOPS
 
-Hagler's—345 E. Jefferson
-Bryant’s—620 S. 7th Ave.
+Hagler' 8—345 E. Jefferson
+Bryant’ l—620 S. 7th Ave.
 
 TAVERNS
-Vaughn’s—1248 E. Washington Ave.
+Vaughn’ 3—1248 E. Washington Ave
 
 NIGHT CLUBS
 Elke—7th Avenue a Tonto
@@ -80,13 +78,13 @@ Super—1245 Washington Street
 GARAGES
 Tourist—1121 S. 5th Ave.
 
-DRUG STORES . .
-Johnson’s—1140 E. Washrngton Street
+DRUG STORES
+Johnaon’ 0—1140 E. Washington Street
 
 TUCSON
 
 TOURIST HOMES
-_Mre. Louise Pitts—722 N. Perry St.
+_.Mre Louise Pitts—722 N. Perry St.
 
 PLEASE MENTION THE “GREEN BOOK"
 
@@ -112,7 +110,7 @@ Little Gem—1511 Russell St.
 
 BARBER SHOPS
 
-Success—2946 Sacramento St.
+Succese—2946 Sacramento St.
 
 EL CENTRO
 
@@ -135,29 +133,30 @@ DeLux—2193 Ivy St. ,
 New Jerico—lOl Church Street
 
 BEAUTY PARLORS
-Rosebud’s—835 G Street
+Rosebud’a—835 G Street
 Ruth’s—1816 F. Street
 Golden West—1032 - F. Street
 
 BARBER SHOPS
-Golden West—lO3Z—‘F’ St.
+Golden West—103Z—‘F’ St.
 Magnolia—602 F. Street
-Sportman’s—8SS G. Street
+Sportman’ 3—855 G. Street
 
-TAVERNS -
+TAVERNS
 20th Century—1401 - F. Street
+
 GARAGES
-Buddy‘ Lang’s—l659 “F” St.
+Buddy‘ Lang’s—l659 "F” St.
 Frank’s—1326 Fresno Street
 
 IMPERIAL
 
 TO'URIST HONIES
-Mrs. Albert Bastion—Cor. 7th E? "M" Ste.
+Mrs. Albert Bastion—Cor. 7th E? “M" Ste.
 
 LOS ANGELES
 
-HOTELS "
+HOTELS
 MACKS MANOR HOTEL
 
 1085 W. JEFFERSON BLVD.
@@ -166,7 +165,6 @@ Clark—1824 Central Ave.
 Lincoln—549 Ceres Ave.
 
 Norbo—-529 E. 6th St. ‘
-
 McAlpin—-648 Stanford Ave.
 Elite—1217 Central Avenue
 Olympic—843 S. Central Avenue

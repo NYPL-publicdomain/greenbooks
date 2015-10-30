@@ -32,7 +32,7 @@ East of Rumford
 
 MASSACHUSETTS
 
-‘ SOUTH HANSON
+“ SOUTH HANSON
 
 ‘ Mrs. Mary B. Pina, 26 Heed St.
 WAREHAM
@@ -96,7 +96,7 @@ NEW YORK STATE
 
 ALBANY
 White Birch Motel, Rt. 9, 15
-Miles N. of Albany
+Miles N. .of Albany
 CENTER BRUNSWICK
 Twin Acres, Rt. 7, 6 mi. No. of Troy
 
@@ -106,7 +106,7 @@ RUMNEY DEPOT
 Whispering Pines, Rt. 25, 8 Miles
 North of Plymouth
 
-VADO NEW MEXICO
+moo NEW MEXICO
 
 Fuller’s, 3 N 1, Highway 80
 DEMING

@@ -44,7 +44,7 @@ VERMONT
 BURLINGTON
 
 HOTELS
-The PatesL—86—90 Archibald St.
+The Patesr—SG—BO Archibald St.
 
 RUTLAND
 
@@ -131,7 +131,7 @@ Odd Fellows
 Big Apple
 
 THEATRES
-Panamount
+Panamou'nt
 Jefferson
 
 CHRISTIANBURG
@@ -152,7 +152,7 @@ Mrs. S. A. Overbey, Holbrook St.
 FARMVILLE
 
 TAVERNS
-Ried’S—ZOO Block, IWain St.
+Ried’s—ZOO Block,
 
 SERVICE STATIONS
 Clark’ s—Main St.
@@ -161,6 +161,8 @@ FREDERICKSBURG
 
 HOTELS
 McGuire, 521 Princess Ann St.
+
+Main St.
 
 Rappshsnock, 520 Princess Ann St.
 

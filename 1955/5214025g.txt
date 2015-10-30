@@ -38,7 +38,7 @@ GARAGES
 Brown’s, 57 Godwin St.
 
 PERTH AMBOY
-HOTELS '
+HOTELS ,
 
 Lenora, 550 Hartford St.
 

@@ -1,6 +1,6 @@
-t ~ - . d,
+‘‘‘‘‘‘
 
-,1...
+....
 
  
 
@@ -10,10 +10,10 @@ t ~ - . d,
 
 WELCH
 
-Capehart Hotel .................................................................... ..14 Virginia Avenue
+Capehart Hotel ...................................................................... 14 Virginia Avenue
 WHEELING, W. VA.
 
-Mrs. W. C. Turner Tourist Home .......................................... ..114 12th Street
+Mrs. W. C. Turner Tourist Home ............................................ 114 12th Street
 WHITE SULPHUR SPRINGS
 
 Slaughter's Tourist Home
@@ -23,35 +23,35 @@ Slaughter's Tourist Home
 Hotels — Motels —- Tourist Homes — Restaurants
 
 ASHLAND
-Stone's Motel .................................................................... .309 West 2nd Street
-*ASHLAND HOTEL .................................................................................. ..Rte. No. 3
+Stone's Motel ...................................................................... 309 West 2nd Street
+*ASHLAND HOTEL .................................................................................... Rte No 3
 BELOIT
 Beloit Hotel
 DELAVAN \
-*GLADY'S CHICKEN SHACK .............................................. .337 South 8th Street
+*GLADY'S CHICKEN SHACK ................................................ 337 South 8th Street
 ELM GROVE
-Sleepy Hollow Motel ............................................ ..12600 W. Blue Mound Rr.
+Sleepy Hollow Motel .............................................. 12600 W. Blue Mound Rr.
 POND DU LAC
-V. Williams Tourist Home .............................................. ..97 S. Seymour Street
+V. Williams Tourist Home ................................................ 97 S. Seymour Street
 GREEN BAY
-Beaumont Hotel .......................................................................................... ..Box 643
+Beaumont Hotel ............................................................................................ Box 643
 LA CROSSE
 Linker Hotel
-Nuttleman's Lodge Motel ....................................................................... ..Hwy. 16
+Nuttleman's Lodge Motel ......................................................................... Hwy. 16
 MADISON
 Park Hotel
 MILWAUKEE
-Hillcrest Hotel ................................................................... .504 W. Galena Street
-Mrs. N. Brown, Booming House ...................................... .920 W. Wright Street
-Mrs. M. Burns, Booming House ............................................ ..1241 N. 6th Street
-Pastell Lampkins Booming House ..................................... .2427 N. 14th Street
-North Side Restaurant .......................................................... .2141 N. 10th Street
-Larry’s Restaurant .............................................................. ..619 W. Walnut Street
-Carl's Restaurant ............................................................ .628 W. Iuneau Avenue
-Christine's Restaurant ........................................................ .2219 No. 9th Street
-Sun Flower Restaurant .............................................. .835 W. Walnut Street
-Boatner's Restaurant .......................................................... ..709 W. Walnut Street
-6 Chicken Shack Restaurant ............................................ .637 W. Walnut Street
+Hillcrest Hotel ..................................................................... 504 W. Galena Street
+Mrs. N. Brown, Booming House ........................................ 920 W. Wright Street
+Mrs. M. Burns, Booming House .............................................. 1241 N. 6th Street
+Pastell Lampkins Booming House ....................................... 2427 N. 14th Street
+North Side Restaurant ............................................................ 2141 N. 10th Street
+Larry’s Restaurant ................................................................ 619 W. Walnut Street
+Carl's Restaurant .............................................................. 628 W. Iuneau Avenue
+Christine's Restaurant .......................................................... 2219 No. 9th Street
+Sun Flower Restaurant ................................................ 835 W. Walnut Street
+Boatner's Restaurant ............................................................ 709 W. Walnut Street
+0 Chicken Shack Restaurant .............................................. 537 W. Walnut Street
 ' OSHKOSH '
 Hotel Raulf
 RACINE
@@ -65,8 +65,6 @@ WYOMING
 Hotels — Motels — Tourist Homes — Restaurants
 
 ' CASPER .
-' Mrs. David I. Rudd Tourist Home ........................................ .646 E. “A” Street
-Blue Spruce Motel ...................................................... ..1914 Yellowstone, East
-
-119
+' Mrs. David I. Rudd Tourist Home .......................................... 646 E. “A” Street
+Blue Spruce Motel ........................................................ 1914 Yellowstone, East
 
