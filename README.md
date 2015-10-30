@@ -13,6 +13,7 @@ There are two derivatives for each page -- a .txt file with the raw OCR data, an
 All file names correspond to the imageID of the original captures -- i.e.:
 
 `{$captureID}g.txt` is the OCRed output of `{$captureID}g.jpg`
+
 `{$captureID}g.hocr` is the coordinate OCR output of `{$captureID}g.jpg`
 
 e.g.:
