@@ -6,7 +6,7 @@
 ## Data extracted from the Green Books
 View the [original Green Book collection](http://digitalcollections.nypl.org/collections/the-green-book#/?tab=about&amp;scroll=0) (See below for more context)
 
-21 volumes, 1937 - 1964
+21 volumes, 1937 - 1964. According to legal research done by NYPL staff, those 21 volumes have no known US copyright restrictions, and can be used and reused freely.
 
 There are two derivatives for each page -- a .txt file with the raw OCR data, and an .hocr file with coordinate box data for the OCR data. 
 
