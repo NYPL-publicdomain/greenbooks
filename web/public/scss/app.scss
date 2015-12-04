@@ -1,0 +1,54 @@
+@import "../css/vendor/normalize.css";
+
+@import "mixins";
+@import "variables";
+@import "animations";
+
+body {
+  font-family: "Kievit","Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+  background: $grayDarkest;
+  color: $white;
+  margin: 0;
+  padding: 0;
+}
+
+a,
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: $blueLight;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lighten($blueLight, 10%);
+}
+
+button {
+  outline: none;
+}
+
+.container {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.map {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+@font-face{
+  font-family:"Kievit";
+  font-style:normal;
+  font-weight:400;
+  src:url("http://ux-static.nypl.org.s3-website-us-east-1.amazonaws.com/ff_kievit_web/KievitWeb-Book.woff") format('woff');
+}
