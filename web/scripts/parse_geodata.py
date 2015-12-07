@@ -88,7 +88,7 @@ for i in range(MAX_ROWS / ROWS_PER_FILE + 1):
             address_year = YEAR
             latlng_string = c[3]['v'].replace('74Point7674coordinates76','').replace(',0.074/coordinates7674/Point076','')
             latlng = latlng_string.split(',')
-            latlng = [float(latlng[0]), float(latlng[1])]
+            latlng = [float(latlng[1]), float(latlng[0])]
             if not addressExists(name, address, latlng):
                 rows.append([
                     name,
