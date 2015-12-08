@@ -10,14 +10,157 @@ var GB = (function() {
     var _this = this;
 
     this.opt = options;
+
+    this.hotel_every = this.opt.pathfinder.hotel_every * this.opt.pathfinder.mph;
+    this.restaurant_every = this.opt.pathfinder.restaurant_every * this.opt.pathfinder.mph;
+    console.log('Hotel every '+this.hotel_every+' miles');
+    console.log('Restaurant every '+this.restaurant_every+' miles');
+
     this.data_loaded = $.Deferred();
     this.map_loaded = $.Deferred();
+    this.path_loaded = false;
 
-    $.when(this.data_loaded).done(function() {
-      _this.loadMap();
+    $.when(this.data_loaded, this.map_loaded).done(function() {
+      _this.onReady();
     });
 
+    this.loadMap();
     this.loadData();
+  };
+
+  GB.prototype.addPathToList = function(){
+    var _this = this,
+        $list = $('#path-list');
+
+    $list.empty();
+
+    _.each(this.path, function(point){
+      $list.append($('<li class="'+point.type_group+'"><div class="name">'+point.name+'</div><div class="address">'+point.address+'</div><div class="type">'+point.type+'</div></li>'));
+    });
+  };
+
+  GB.prototype.addPathToMap = function(){
+    var _this = this;
+
+    if (this.map_feature_layer) {
+      this.map_feature_layer.clearLayers();
+    } else {
+      this.map_feature_layer = new L.FeatureGroup();
+    }
+
+    // create a red polyline from an array of LatLng points
+    var latlngs = _.pluck(this.path, 'latlng');
+    var polyline = L.polyline(latlngs, {color: 'red'});
+    this.map_feature_layer.addLayer(polyline);
+
+    // draw markers
+    _.each(this.path, function(point, i){
+      var marker = L.marker(point.latlng);
+      marker.bindPopup('<strong>' + point.name + '</strong><br />' + point.address);
+      _this.map_feature_layer.addLayer(marker);
+      _this.path[i].marker = marker;
+    });
+
+    // zoom the map to the polyline
+    this.map.addLayer(this.map_feature_layer);
+    this.map.fitBounds(polyline.getBounds());
+  };
+
+  GB.prototype.doPath = function(origin, destination){
+    var _this = this,
+        total_miles = _getDistanceFromLatLonInMiles(origin.lat, origin.lon, destination.lat, destination.lon),
+        angle_between = _angleBetween(origin.lat, origin.lon, destination.lat, destination.lon);
+
+    console.log(total_miles + ' miles between two points');
+    console.log(angle_between + ' radians between two points');
+
+    this.path = [
+      {
+        name: 'Start Location',
+        address: origin.display_name,
+        type: 'Address',
+        type_group: 'address',
+        latlng: [origin.lat, origin.lon]
+      }
+    ];
+
+    var current_lat = origin.lat,
+        current_lng = origin.lon,
+        miles_travelled = 0,
+        miles_since_hotel = 0,
+        miles_left = total_miles,
+        points = 0,
+        max_points = 100;
+
+    while(miles_left > this.restaurant_every && points < max_points) {
+      // move and look for a restaurant
+      var latlng = _movePoint(current_lat, current_lng, angle_between, this.restaurant_every);
+      console.log('Moved '+this.restaurant_every+' miles from ['+current_lat+','+current_lng+'] to ['+latlng[0]+','+latlng[1]+']')
+      this.path.push(this.findClosestPlace(latlng, 'restaurant'));
+
+      // determine how many miles we travelled
+      var miles = _getDistanceFromLatLonInMiles(current_lat, current_lng, latlng[0], latlng[1]);
+      miles_travelled += miles;
+      miles_since_hotel += miles;
+
+      // if we've travelled far enough, stop at a hotel
+      if (miles_since_hotel >= this.hotel_every) {
+        this.path.push(this.findClosestPlace(latlng, 'hotel'));
+        miles_since_hotel = 0;
+      }
+
+      // set destination to current, update angle
+      current_lat = latlng[0];
+      current_lng = latlng[1];
+      angle_between = _angleBetween(current_lat, current_lng, destination.lat, destination.lon);
+      miles_left = _getDistanceFromLatLonInMiles(current_lat, current_lng, destination.lat, destination.lon);
+      points++;
+    }
+
+    // add restaurant if path is empty
+    if (!this.path.length) {
+      this.path.push(this.findClosestPlace([destination.lat, destination.lon], 'restaurant'));
+    }
+
+    // if no hotel found, add hotel to path
+    var hotel_types = this.opt.pathfinder.types['hotel'];
+    if (!_.find(this.path, function(p){ return _.contains(hotel_types, p.type); })) {
+      this.path.push(this.findClosestPlace([destination.lat, destination.lon], 'hotel'));
+    }
+
+    // console.log(this.path.length + ' steps in path');
+    // console.log(this.path);
+
+    this.addPathToMap();
+    this.addPathToList();
+
+    _this.modalHide();
+    _this.path_loaded = true;
+    $('#path-form-submit').removeClass('loading');
+  };
+
+  GB.prototype.findClosestPlace = function(latlng, type) {
+    var _this = this,
+        lat = latlng[0],
+        lng = latlng[1],
+        types = this.opt.pathfinder.types[type];
+
+    // filter list to place types and places not already in current path
+    var places = _.filter(this.data, function(item){
+      return _.contains(types, item.type) && !_.find(_this.path, function(p){ return p.latlng[0]==item.latlng[0] && p.latlng[1]==item.latlng[1];});
+    });
+
+    // console.log(places.length + ' possible places');
+    // console.log(places);
+
+    var closest = _.min(places, function(item){
+      return _dist(lat, lng, item.latlng[0], item.latlng[1]);
+    });
+
+    console.log('Found closest address: ', closest);
+    closest.type_group = type;
+
+    return closest;
   };
 
   GB.prototype.loadData = function(){
@@ -26,11 +169,47 @@ var GB = (function() {
     this.data = [];
 
     $.getJSON("data/greenbook_1956.json", function(data) {
-      _this.data = data;
-      console.log('All data loaded');
+      _this.data = _.map(data.rows, function(row){ return _.object(data.cols, row); });
+
+      console.log(data.totalrows + ' addresses loaded');
       _this.data_loaded.resolve();
     });
 
+  };
+
+  GB.prototype.loadListeners = function(){
+    var _this = this;
+
+    $('.info-button').on('click', function(e){
+      e.preventDefault();
+      _this.modalShow('#intro');
+    });
+
+    $('#intro').on('click', function(e){
+      e.preventDefault();
+      if (_this.path_loaded) {
+        _this.modalHide();
+      }
+    });
+
+    $('.form-button').on('click', function(e){
+      e.preventDefault();
+      e.stopPropagation();
+      _this.modalShow('#path-form-modal');
+    });
+
+    $('#path-form').on('submit', function(e){
+      e.preventDefault();
+      _this.submitPath($('#origin').val(), $('#destination').val());
+    });
+
+    $('#path-list').on('mouseover', 'li', function(e) {
+      _this.markerShow($('#path-list li').index($(this)));
+    });
+
+    $('#path-list').on('mouseleave', 'li', function(e) {
+      _this.markerHide($('#path-list li').index($(this)));
+    });
   };
 
   GB.prototype.loadMap = function(){
@@ -39,15 +218,131 @@ var GB = (function() {
     this.map = L.map('map');
 
     this.map.on('load', function(e) {
+      console.log('Map loaded');
       _this.map_loaded.resolve();
     });
 
-    L.tileLayer(this.opt.mapbox_url, {
-      id: this.opt.mapbox_map_id,
-      accessToken: this.opt.mapbox_access_token
+    L.tileLayer(this.opt.mapbox.url, {
+      id: this.opt.mapbox.map_id,
+      accessToken: this.opt.mapbox.access_token,
+      attribution: this.opt.mapbox.attribution
     }).addTo(this.map);
 
-    this.map.setView([51.5, -0.09], 13);
+    this.map.setView(this.opt.start_latlng, this.opt.start_zoom);
+  };
+
+  GB.prototype.markerHide = function(i){
+    this.path[i].marker.closePopup();
+  };
+
+  GB.prototype.markerShow = function(i){
+    this.path[i].marker.openPopup();
+  };
+
+  GB.prototype.modalHide = function(){
+    $('#modal').removeClass('active');
+  };
+
+  GB.prototype.modalShow = function(id){
+    $('.modal-content').removeClass('active');
+    $(id).addClass('active');
+    $('#modal').addClass('active');
+  };
+
+  GB.prototype.onReady = function(){
+    $('.loading').removeClass('loading');
+
+    this.loadListeners();
+  };
+
+  GB.prototype.submitPath = function(origin, destination){
+    if (!origin.length || !destination.length) {
+      alert('Please enter an origin and destination address.');
+      return false;
+    }
+
+    $('#path-form-submit').addClass('loading');
+
+    var _this = this,
+        origin_found = $.Deferred(),
+        destination_found = $.Deferred();
+
+    $.when(origin_found, destination_found).done(function(the_origin, the_destination) {
+      _this.doPath(the_origin, the_destination);
+    });
+
+    // look up origin
+    $.getJSON(this.opt.nominatim_url.replace('{q}', _urlencode(origin)), function(data) {
+      if (!data.length) {
+        alert('No matches found for '+origin);
+        return false;
+      }
+      var the_origin = data[0];
+      the_origin.lat = parseFloat(the_origin.lat);
+      the_origin.lon = parseFloat(the_origin.lon);
+      console.log('Found: '+the_origin.display_name+' ['+the_origin.lat+','+the_origin.lon+']');
+      origin_found.resolve(the_origin);
+    });
+
+    // look up destination
+    $.getJSON(this.opt.nominatim_url.replace('{q}', _urlencode(destination)), function(data) {
+      if (!data.length) {
+        alert('No matches found for '+destination);
+        return false;
+      }
+      var the_destination = data[0];
+      the_destination.lat = parseFloat(the_destination.lat);
+      the_destination.lon = parseFloat(the_destination.lon);
+      console.log('Found: '+the_destination.display_name+' ['+the_destination.lat+','+the_destination.lon+']');
+      destination_found.resolve(the_destination);
+    });
+
+  };
+
+  function _angleBetween(x1, y1, x2, y2) {
+    return Math.atan2(y2 - y1, x2 - x1);
+  };
+
+  function _deg2rad(deg) {
+    return deg * (Math.PI/180);
+  };
+
+  function _dist(x1, y1, x2, y2) {
+    return Math.sqrt((x2-x1)*(x2-x1) + (y2-y1)*(y2-y1));
+  };
+
+  function _getDistanceFromLatLonInMiles(lat1,lon1,lat2,lon2) {
+    var R = 3959; // Radius of the earth in miles
+    var dLat = _deg2rad(lat2-lat1);  // deg2rad below
+    var dLon = _deg2rad(lon2-lon1);
+    var a =
+      Math.sin(dLat/2) * Math.sin(dLat/2) +
+      Math.cos(_deg2rad(lat1)) * Math.cos(_deg2rad(lat2)) *
+      Math.sin(dLon/2) * Math.sin(dLon/2)
+      ;
+    var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+    var d = R * c; // Distance in km
+    return d;
+  };
+
+  function _movePoint(lat, lng, rad, distance){
+    // determine miles to travel
+    var milesX = distance * Math.cos(rad);
+    var milesY = distance * Math.sin(rad);
+
+    // Reference:
+    // http://stackoverflow.com/questions/1253499/simple-calculations-for-working-with-lat-lon-km-distance
+    var degX = milesX / 68.70749821,
+        lat2 = lat + degX;
+
+    var degY = milesY / 69.1710411,
+        lng2 = lng + degY;
+
+    return [lat2, lng2];
+  }
+
+  function _urlencode(str){
+    return encodeURIComponent(str).replace('%20','+');
   };
 
   return GB;

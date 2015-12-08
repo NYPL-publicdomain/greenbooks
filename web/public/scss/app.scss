@@ -12,6 +12,10 @@ body {
   padding: 0;
 }
 
+p {
+  line-height: 1.4;
+}
+
 a,
 a:link,
 a:visited,
@@ -29,6 +33,29 @@ button {
   outline: none;
 }
 
+form {
+  font-size: 2.8em;
+
+  label {
+    display: block;
+    font-size: 0.8em;
+  }
+  input {
+    display: block;
+    margin: 0.3em auto 1em;
+    color: $grayDarkest;
+    outline: none;
+  }
+  button {
+    &:before {
+      content: 'Map A Trip';
+    }
+    &.loading:before {
+      content: 'Loading...';
+    }
+  }
+}
+
 .container {
   position: absolute;
   width: 100%;
@@ -38,12 +65,190 @@ button {
   overflow: hidden;
 }
 
-.map {
+.map,
+.path {
   position: absolute;
+  width: percentage(2/3);
+  height: 100%;
+  top: 0;
+  left: percentage(1/3);
+}
+.path {
+  width: percentage(1/3);
+  left: 0;
+  overflow: hidden;
+  overflow-y: auto;
+  background: $grayDarkest;
+  @include box-sizing();
+
+  .title {
+    padding: 20px;
+    background: $grayDarker;
+    @include box-sizing();
+
+    *:first-child {
+      margin-top: 0;
+    }
+
+    *:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  button {
+    border: none;
+    background: $blue;
+    font-size: 1.6em;
+    padding: 0.5em 1em;
+    margin: 20px 0 0 20px;
+    cursor: pointer;
+
+    &:hover {
+      background: lighten($blue, 10%);
+    }
+  }
+}
+
+.path-list-wrapper {
+  position: relative;
+
+  .path-line {
+    position: absolute;
+    width: 1px;
+    height: 84%;
+    top: 20px;
+    left: 26px;
+    border-left: 3px dashed rgba($red, 0.4);
+  }
+}
+
+.path-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    display: block;
+    margin: 0;
+    padding: 20px 20px 20px 60px;
+    border-bottom: 1px dotted $grayDarker;
+    position: relative;
+    @include transition(background 0.5s);
+
+    &:before {
+      display: block;
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      font: normal normal normal 14px/1 FontAwesome;
+      font-size: 20px;
+      height: 20px;
+      line-height: 20px;
+      text-rendering: auto;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      content: "\f10c";
+      z-index: 10;
+      background: $grayDarkest;
+    }
+
+    &.hotel:before {
+      content: "\f236";
+    }
+
+    &.restaurant:before {
+      content: "\f0f5";
+    }
+
+    &:hover {
+      background: lighten($grayDarkest, 8%);
+    }
+
+    .name {
+      font-size: 1.4em;
+    }
+
+    .address {
+      font-size: 1.1em;
+      padding: 0.4em 0 0.6em;
+      color: $grayLight;
+    }
+
+    .type {
+      font-size: 0.9em;
+      font-style: italic;
+      color: $gray;
+    }
+  }
+}
+
+.modal {
+  background: rgba($grayDarkest, 0.9);
+  position: fixed;
   width: 100%;
   height: 100%;
   top: 0;
   left: 0;
+  z-index: 1001;
+  display: none;
+
+  &.active {
+    display: block;
+  }
+
+  .modal-content {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: 50%;
+    color: $white;
+    display: none;
+    @include transform(translateY(-60%));
+
+    p {
+      font-size: 1.2em;
+      line-height: 1.8;
+    }
+
+    &.active {
+      display: block;
+    }
+  }
+
+  button {
+    display: inline-block;
+    padding: 0.3em 0.6em;
+    background: $blue;
+    color: $white;
+    cursor: pointer;
+    border: none;
+
+    &:hover {
+      background: lighten($blue, 10%);
+    }
+
+    &.form-button:before {
+      content: 'Take A Trip Using The Green Books';
+    }
+
+    &.loading {
+      cursor: default;
+      opacity: 0.8;
+
+      &:hover {
+        background: $blueLight;
+      }
+
+      &:before {
+        content: 'Loading...'
+      }
+    }
+  }
+}
+
+.leaflet-popup-content {
+  color: $grayDarkest;
 }
 
 @font-face{
