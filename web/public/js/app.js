@@ -122,9 +122,8 @@ var GB = (function() {
       this.path.push(this.findClosestPlace([destination.lat, destination.lon], 'restaurant'));
     }
 
-    // if no hotel found, add hotel to path
-    var hotel_types = this.opt.pathfinder.types['hotel'];
-    if (!_.find(this.path, function(p){ return _.contains(hotel_types, p.type); })) {
+    // if no hotel in last spot, add hotel to path
+    if (this.path[this.path.length-1].type != 'hotel') {
       this.path.push(this.findClosestPlace([destination.lat, destination.lon], 'hotel'));
     }
 
