@@ -264,6 +264,27 @@ var GB = (function() {
       });
   };
 
+  GB.prototype.lookupAddress = function(address, deferred) {
+    $.getJSON(this.opt.nominatim_url.replace('{q}', _urlencode(address)), function(data) {
+      if (!data.length) {
+        alert('No matches found for '+address);
+        return false;
+      }
+      var the_address = data[0],
+          name = the_address.display_name;
+
+      if (name.indexOf('United States of America')<0 || name.indexOf('Alaska')>=0 || name.indexOf('Hawaii')>=0) {
+        alert('Addresses must be in the continental U.S.');
+        return false;
+      }
+
+      the_address.lat = parseFloat(the_address.lat);
+      the_address.lon = parseFloat(the_address.lon);
+      console.log('Found: '+name+' ['+the_address.lat+','+the_address.lon+']');
+      deferred.resolve(the_address);
+    });
+  };
+
   GB.prototype.markerHide = function(i){
     this.path[i].marker.closePopup();
   };
@@ -310,31 +331,8 @@ var GB = (function() {
       _this.doPath(the_origin, the_destination);
     });
 
-    // look up origin
-    $.getJSON(this.opt.nominatim_url.replace('{q}', _urlencode(origin)), function(data) {
-      if (!data.length) {
-        alert('No matches found for '+origin);
-        return false;
-      }
-      var the_origin = data[0];
-      the_origin.lat = parseFloat(the_origin.lat);
-      the_origin.lon = parseFloat(the_origin.lon);
-      console.log('Found: '+the_origin.display_name+' ['+the_origin.lat+','+the_origin.lon+']');
-      origin_found.resolve(the_origin);
-    });
-
-    // look up destination
-    $.getJSON(this.opt.nominatim_url.replace('{q}', _urlencode(destination)), function(data) {
-      if (!data.length) {
-        alert('No matches found for '+destination);
-        return false;
-      }
-      var the_destination = data[0];
-      the_destination.lat = parseFloat(the_destination.lat);
-      the_destination.lon = parseFloat(the_destination.lon);
-      console.log('Found: '+the_destination.display_name+' ['+the_destination.lat+','+the_destination.lon+']');
-      destination_found.resolve(the_destination);
-    });
+    this.lookupAddress(origin, origin_found);
+    this.lookupAddress(destination, destination_found);
 
   };
 
