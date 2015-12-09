@@ -52,6 +52,7 @@ form {
     }
     &.loading:before {
       content: 'Loading...';
+      opacity: 0.5;
     }
   }
 }

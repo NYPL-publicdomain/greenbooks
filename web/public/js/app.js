@@ -42,16 +42,12 @@ var GB = (function() {
   GB.prototype.addPathToMap = function(){
     var _this = this;
 
+    // clear or initialize feature layer
     if (this.map_feature_layer) {
       this.map_feature_layer.clearLayers();
     } else {
       this.map_feature_layer = new L.FeatureGroup();
     }
-
-    // create a red polyline from an array of LatLng points
-    var latlngs = _.pluck(this.path, 'latlng');
-    var polyline = L.polyline(latlngs, {color: 'red'});
-    this.map_feature_layer.addLayer(polyline);
 
     // draw markers
     _.each(this.path, function(point, i){
@@ -61,9 +57,24 @@ var GB = (function() {
       _this.path[i].marker = marker;
     });
 
-    // zoom the map to the polyline
-    this.map.addLayer(this.map_feature_layer);
-    this.map.fitBounds(polyline.getBounds());
+    // create a red polyline from an array of LatLng points
+    var latlngs = _.pluck(this.path, 'latlng');
+    this.route_loaded = $.Deferred();
+
+    $.when(this.route_loaded).done(function(route) {
+      if (!route || !route.length) {
+        route = latlngs;
+      }
+      var polyline = L.polyline(route, {color: 'red'});
+      _this.map_feature_layer.addLayer(polyline);
+
+      // zoom the map to the polyline
+      _this.map.addLayer(_this.map_feature_layer);
+      _this.map.fitBounds(polyline.getBounds());
+      _this.onPathLoaded();
+    });
+
+    this.loadRoute(latlngs);
   };
 
   GB.prototype.doPath = function(origin, destination){
@@ -90,12 +101,12 @@ var GB = (function() {
         miles_since_hotel = 0,
         miles_left = total_miles,
         points = 0,
-        max_points = 100;
+        max_points = this.opt.pathfinder.max_points;
 
     while(miles_left > this.restaurant_every && points < max_points) {
       // move and look for a restaurant
       var latlng = _movePoint(current_lat, current_lng, angle_between, this.restaurant_every);
-      console.log('Moved '+this.restaurant_every+' miles from ['+current_lat+','+current_lng+'] to ['+latlng[0]+','+latlng[1]+']')
+      // console.log('Moved '+this.restaurant_every+' miles from ['+current_lat+','+current_lng+'] to ['+latlng[0]+','+latlng[1]+']')
       this.path.push(this.findClosestPlace(latlng, 'restaurant'));
 
       // determine how many miles we travelled
@@ -132,10 +143,6 @@ var GB = (function() {
 
     this.addPathToMap();
     this.addPathToList();
-
-    _this.modalHide();
-    _this.path_loaded = true;
-    $('#path-form-submit').removeClass('loading');
   };
 
   GB.prototype.findClosestPlace = function(latlng, type) {
@@ -156,7 +163,7 @@ var GB = (function() {
       return _dist(lat, lng, item.latlng[0], item.latlng[1]);
     });
 
-    console.log('Found closest address: ', closest);
+    // console.log('Found closest address: ', closest);
     closest.type_group = type;
 
     return closest;
@@ -199,6 +206,7 @@ var GB = (function() {
 
     $('#path-form').on('submit', function(e){
       e.preventDefault();
+      if ($('#path-form-submit').hasClass('loading')) return false;
       _this.submitPath($('#origin').val(), $('#destination').val());
     });
 
@@ -230,6 +238,32 @@ var GB = (function() {
     this.map.setView(this.opt.start_latlng, this.opt.start_zoom);
   };
 
+  GB.prototype.loadRoute = function(latlngs) {
+    var _this = this,
+        latlng_strings = _.map(latlngs, function(ll){ return ll[1] + ',' + ll[0]; }),
+        latlng_string = latlng_strings.join(';'),
+        url = this.opt.mapbox.directions_url.replace('{accessToken}',this.opt.mapbox.access_token).replace('{waypoints}',latlng_string);
+
+    // console.log('Retrieving directions from '+url);
+
+    // look up route
+    $.getJSON(url)
+      .done(function(data) {
+        if (data && data.routes && data.routes.length && data.routes[0].geometry && data.routes[0].geometry.coordinates.length) {
+          var route = _.map(data.routes[0].geometry.coordinates, function(c){ return [c[1], c[0]]; });
+          console.log('Loaded route with ' + route.length + ' coordinates.');
+          _this.route_loaded.resolve(route);
+        } else {
+          console.log('Invalid route');
+          _this.route_loaded.resolve([]);
+        }
+      })
+      .fail(function( jqxhr, textStatus, error ) {
+        console.log('Request Failed: ' + textStatus + ', ' + error);
+        _this.route_loaded.resolve([]);
+      });
+  };
+
   GB.prototype.markerHide = function(i){
     this.path[i].marker.closePopup();
   };
@@ -252,6 +286,12 @@ var GB = (function() {
     $('.loading').removeClass('loading');
 
     this.loadListeners();
+  };
+
+  GB.prototype.onPathLoaded = function(){
+    this.modalHide();
+    this.path_loaded = true;
+    $('#path-form-submit').removeClass('loading');
   };
 
   GB.prototype.submitPath = function(origin, destination){
