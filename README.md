@@ -2,10 +2,10 @@
 <img src="http://images.nypl.org/index.php?id=5207997&t=r" alt="Green Book cover, 1948" />
 <img src="http://images.nypl.org/index.php?id=5207618&t=r" alt="Green Book cover, 1947" />
 
-## TOC:
-- ## Data extracted from the Green Books
-- ## Images
-- ## Context
+### TOC:
+- Data extracted from the Green Books
+- Images
+- Context
 
 ## Data extracted from the Green Books
 View the [original Green Book collection](http://digitalcollections.nypl.org/collections/the-green-book#/?tab=about&amp;scroll=0) (See below for more context)
