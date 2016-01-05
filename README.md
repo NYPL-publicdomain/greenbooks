@@ -2,13 +2,15 @@
 <img src="http://images.nypl.org/index.php?id=5207997&t=r" alt="Green Book cover, 1948" />
 <img src="http://images.nypl.org/index.php?id=5207618&t=r" alt="Green Book cover, 1947" />
 
-### TOC:
-- Data extracted from the Green Books
-- Images
-- Context
+
+## Green Books project
+The Green Book was a travel guide published between 1936 and 1966 that listed hotels, restaurants, bars, gas stations, etc. where black travelers would be welcome.
+
+This repository hosts data extracted from the the [original Green Book collection](http://digitalcollections.nypl.org/collections/the-green-book#/?tab=about&amp;scroll=0) held by NYPL's Schomburg Center for Research in Black Culture in order to create searchable PDFs of the 21 volumes, as well as to power a set of experimental interfaces by the Brian Foo of NYPL Labs. The interface is designed to encourage you to explore these books and map them in your mind -- to think about the trips you could take, can take, will take. See how the size of the world can change depending on the color of your skin. 
+
+View the website here: <http://publicdomain.nypl.org/greenbook-map/>
 
 ## Data extracted from the Green Books
-View the [original Green Book collection](http://digitalcollections.nypl.org/collections/the-green-book#/?tab=about&amp;scroll=0) (See below for more context)
 
 21 volumes, 1937 - 1964. According to legal research done by NYPL staff, those 21 volumes have no known US copyright restrictions, and can be used and reused freely.
 
@@ -38,8 +40,7 @@ Meanwhile, to view each capture on our Digital Collections platform, you can do:
 
 ## Context
 
-For a nice writeup, see this great blog post by K Menick of NYPL's Schomburg Center for Research in Black Culture:
-http://www.nypl.org/blog/2015/03/24/schomburg-treasures-green-book
+For a nice writeup, see this [great blog post by K Menick of NYPL's Schomburg Center for Research in Black Culture](http://www.nypl.org/blog/2015/03/24/schomburg-treasures-green-book):
 
 From the Introduction to the 1949 edition: 
 
