@@ -6,7 +6,7 @@
 ## Green Books project
 The Green Book was a travel guide published between 1936 and 1966 that listed hotels, restaurants, bars, gas stations, etc. where black travelers would be welcome.
 
-This repository hosts data extracted from the the [original Green Book collection](http://digitalcollections.nypl.org/collections/the-green-book#/?tab=about&amp;scroll=0) held by NYPL's Schomburg Center for Research in Black Culture in order to create searchable PDFs of the 21 volumes, as well as to power a set of experimental interfaces by the Brian Foo of NYPL Labs. The interface is designed to encourage you to explore these books and map them in your mind -- to think about the trips you could take, can take, will take. See how the size of the world can change depending on the color of your skin. 
+This repository hosts data extracted from the [original Green Book collection](http://digitalcollections.nypl.org/collections/the-green-book#/?tab=about&amp;scroll=0) held by NYPL's Schomburg Center for Research in Black Culture in order to create searchable PDFs of the 21 volumes, as well as to power a set of experimental interfaces by the Brian Foo of NYPL Labs. The interface is designed to encourage you to explore these books and map them in your mind -- to think about the trips you could take, can take, will take. See how the size of the world can change depending on the color of your skin. 
 
 View the website here: <http://publicdomain.nypl.org/greenbook-map/>
 
