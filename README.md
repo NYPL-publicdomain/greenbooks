@@ -4,7 +4,7 @@
 
 
 ## Green Books project
-The Green Book was a travel guide published between 1936 and 1966 that listed hotels, restaurants, bars, gas stations, etc. where black travelers would be welcome.
+The Green Book was a travel guide published between 1936 and 1966 that listed hotels, restaurants, bars, gas stations, etc. where Black travelers would be welcome.
 
 This repository hosts data extracted from the [original Green Book collection](http://digitalcollections.nypl.org/collections/the-green-book#/?tab=about&amp;scroll=0) held by NYPL's Schomburg Center for Research in Black Culture in order to create searchable PDFs of the 21 volumes, as well as to power a set of experimental interfaces by the Brian Foo of NYPL Labs. The interface is designed to encourage you to explore these books and map them in your mind -- to think about the trips you could take, can take, will take. See how the size of the world can change depending on the color of your skin. 
 
@@ -55,3 +55,18 @@ From the Introduction to the 1949 edition:
 > If this guide has proved useful to you on your trips, let us know. If not, tell us also as we appreciate your criticisms and ideas in the improvement of this guide from which you benefit. 
 
 > **There will be a day sometime in the near future when this guide will not have to be published. That is when we as a race will have equal opportunities and privileges in the United States. It will be a great day for us to suspend this publication for then we can go wherever we please, and without embarrassment. But until that time comes we shall continue to publish this information for your convenience each year.**
+
+---
+
+### About the NYPL Public Domain Release
+
+On January 6, 2016, The New York Public Library enhanced access to public domain items in Digital Collections so that everyone has the freedom to enjoy and reuse these materials in almost limitless ways. For all such items the Library now makes it possible to download the highest resolution images available directly from the [Digital Collections](http://digitalcollections.nypl.org) website. 
+
+That means more than 187,000 items free to use without restriction! But we know that 180K of anything is a lot to get your head around — so as a way to introduce you to these collections and inspire new works, NYPL Labs developed a suite of [projects and tools](http://nypl.org/publicdomain) to help you explore the vast collections and dive deep into specific ones. 
+
+Go forth, reuse, and let us know what you made with the #nyplremix hashtag! For more information:
+
+- [NYPL Labs Remix Residency](http://www.nypl.org/help/about-nypl/fellowships-institutes/remix)
+- [Data & Tools](https://github.com/NYPL-publicdomain/data-and-utilities)
+- [Public Domain Collections](http://publicdomain.nypl.org)
+- [Project Credits](https://github.com/NYPL-publicdomain/nypl-publicdomain.github.io#credits-for-the-january-2016-nypl-public-domain-release)
