@@ -57,6 +57,10 @@ From the Introduction to the 1949 edition:
 > **There will be a day sometime in the near future when this guide will not have to be published. That is when we as a race will have equal opportunities and privileges in the United States. It will be a great day for us to suspend this publication for then we can go wherever we please, and without embarrassment. But until that time comes we shall continue to publish this information for your convenience each year.**
 
 ---
+### License
+
+See [license](/LICENSE).
+
 
 ### About the NYPL Public Domain Release
 
